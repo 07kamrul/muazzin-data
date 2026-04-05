@@ -1,0 +1,55 @@
+{
+  "collection": "family_parents",
+  "collection_name": "Family Parents",
+  "duas": [
+    {
+      "number": 1,
+      "slug": "rabbir-hamhuma",
+      "title": "Dua for Parents",
+      "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "transliteration": "Rabbir hamhuma kama rabbayani saghira.",
+      "english": "My Lord, have mercy upon them as they raised me when I was small.",
+      "bangla": "হে আমার রব, আমার পিতা-মাতার প্রতি দয়া করুন, যেমন তারা শৈশবে আমাকে লালন-পালন করেছেন।",
+      "categories": [
+        "family_parents"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473"
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "rabbana-ghfir-li-wa-liwalidayya",
+      "title": "Forgive Me, My Parents and the Believers",
+      "arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+      "transliteration": "Rabbana ighfir li wa liwalidayya wa lil-mu'minina yawma yaqumul-hisab.",
+      "english": "Our Lord, forgive me, my parents and the believers on the Day the account is established.",
+      "bangla": "হে আমাদের রব, হিসাব কায়েমের দিনে আমাকে, আমার পিতা-মাতাকে এবং সকল মুমিনকে ক্ষমা করে দিন।",
+      "categories": [
+        "family_parents",
+        "forgiveness_repentance"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473"
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "rabbana-hab-lana-min-azwajina",
+      "title": "Righteous Spouse and Children",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yunin waj'alna lil-muttaqina imama.",
+      "english": "Our Lord, grant us from our spouses and children comfort to our eyes and make us leaders for the righteous.",
+      "bangla": "হে আমাদের রব, আমাদের স্ত্রী-সন্তানদেরকে আমাদের চোখের শীতলতা বানিয়ে দিন এবং আমাদেরকে মুত্তাকিদের আদর্শ করুন।",
+      "categories": [
+        "family_parents"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473"
+      ]
+    }
+  ]
+}

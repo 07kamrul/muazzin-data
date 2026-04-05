@@ -1,0 +1,85 @@
+{
+  "collection": "protection",
+  "collection_name": "Protection",
+  "duas": [
+    {
+      "number": 1,
+      "slug": "bismillahilladhi-la-yadurru",
+      "title": "Protection from Harm",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa huwas-sami'ul-'alim.",
+      "english": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+      "bangla": "আল্লাহর নামে শুরু করছি, যার নামের বরকতে আসমান ও জমিনের কোনো কিছুই ক্ষতি করতে পারে না; আর তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+      "categories": [
+        "morning_evening",
+        "protection"
+      ],
+      "source_urls": [
+        "https://www.teachers.gov.bd/blog/details/742208"
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "allahumma-inna-najaluka-fi-nuhurihim",
+      "title": "Protection from Harmful People",
+      "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+      "transliteration": "Allahumma inna naj'aluka fi nuhurihim wa na'udhu bika min shururihim.",
+      "english": "O Allah, we place You before them and seek refuge in You from their evils.",
+      "bangla": "হে আল্লাহ, আমরা তাদের মোকাবেলায় আপনাকেই ভরসা হিসেবে গ্রহণ করছি এবং তাদের অনিষ্ট থেকে আপনার আশ্রয় চাইছি।",
+      "categories": [
+        "protection"
+      ],
+      "source_urls": [
+        "https://www.teachers.gov.bd/blog/details/742208"
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "allahumma-inni-audhu-bika-minal-barasi",
+      "title": "Protection from Severe Illness",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْأَسْقَامِ",
+      "transliteration": "Allahumma inni a'udhu bika minal-barasi wal-jununi wal-judhami wa min sayyi'il-asqam.",
+      "english": "O Allah, I seek refuge in You from vitiligo, madness, leprosy and evil diseases.",
+      "bangla": "হে আল্লাহ, আমি আপনার কাছে শ্বেত, উন্মাদনা, কুষ্ঠ এবং ভয়াবহ সব রোগ থেকে আশ্রয় চাই।",
+      "categories": [
+        "protection",
+        "health"
+      ],
+      "source_urls": [
+        "https://mwa.org.au/latest-articles/duas-for-distress-allahs-help-in-challenging-times/"
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "allahumma-inni-audhu-bika-min-sharri-sami",
+      "title": "Protection from the Evil Within",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِي وَمِنْ شَرِّ بَصَرِي وَمِنْ شَرِّ لِسَانِي وَمِنْ شَرِّ قَلْبِي وَمِنْ شَرِّ مَنِيِّي",
+      "transliteration": "Allahumma inni a'udhu bika min sharri sam'i wa min sharri basari wa min sharri lisani wa min sharri qalbi wa min sharri maniyyi.",
+      "english": "O Allah, I seek refuge in You from the evil of my hearing, my sight, my tongue, my heart and myself.",
+      "bangla": "হে আল্লাহ, আমি আপনার কাছে আমার শ্রবণ, দৃষ্টি, জিহ্বা, অন্তর এবং নিজের অনিষ্ট থেকে আশ্রয় চাই।",
+      "categories": [
+        "protection",
+        "guidance_faith"
+      ],
+      "source_urls": [
+        "https://www.islamicreliefcanada.org/resources/duas-and-dhikr"
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "alhamdulillahil-ladhi-afani",
+      "title": "When Seeing Someone Afflicted",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+      "transliteration": "Alhamdulillahil-ladhi 'afani mimma ibtalaka bihi wa faddalani 'ala kathirin mimman khalaqa tafdila.",
+      "english": "Praise be to Allah who kept me safe from what He tested you with and favored me greatly over many of those He created.",
+      "bangla": "সকল প্রশংসা আল্লাহর, যিনি আমাকে সেই কষ্ট থেকে নিরাপদে রেখেছেন যাতে আপনাকে পরীক্ষা করেছেন এবং তাঁর অনেক সৃষ্টির ওপর আমাকে বিশেষ মর্যাদা দিয়েছেন।",
+      "categories": [
+        "health",
+        "protection"
+      ],
+      "source_urls": [
+        "https://www.teachers.gov.bd/blog/details/742208"
+      ]
+    }
+  ]
+}

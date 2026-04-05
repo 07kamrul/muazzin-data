@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "unique_dua_count": 42,
+    "categories": {
+      "akhirah": 3,
+      "distress_relief": 12,
+      "family_parents": 3,
+      "forgiveness_repentance": 5,
+      "general": 3,
+      "guidance_faith": 15,
+      "health": 2,
+      "heart_inner_state": 5,
+      "morning_evening": 4,
+      "protection": 5,
+      "rizq_finance": 5,
+      "study_success": 9
+    },
+    "source_urls_used": [
+      "https://celestialshiny.com/100-duas-from-quran-and-sunnah-for-success-and-happiness/",
+      "https://dhakamail.com/religion/54289",
+      "https://mwa.org.au/latest-articles/duas-for-distress-allahs-help-in-challenging-times/",
+      "https://www.duas.org/mobile/dua-short-powerful.html",
+      "https://www.islamicreliefcanada.org/resources/duas-and-dhikr",
+      "https://www.kalbela.com/religion/92473",
+      "https://www.muslimaid.org/media-centre/blog/students-here-are-duas-for-studying/",
+      "https://www.teachers.gov.bd/blog/details/742208"
+    ],
+    "source_urls_without_imported_dua_text": [
+      "https://play.google.com/store/apps/details?id=com.muslim.hundred.small.dhoya&hl=bn"
+    ]
+  },
+  "collection_files": {
+    "akhirah": "collections/akhirah.json",
+    "distress_relief": "collections/distress_relief.json",
+    "family_parents": "collections/family_parents.json",
+    "forgiveness_repentance": "collections/forgiveness_repentance.json",
+    "general": "collections/general.json",
+    "guidance_faith": "collections/guidance_faith.json",
+    "health": "collections/health.json",
+    "heart_inner_state": "collections/heart_inner_state.json",
+    "morning_evening": "collections/morning_evening.json",
+    "protection": "collections/protection.json",
+    "rizq_finance": "collections/rizq_finance.json",
+    "study_success": "collections/study_success.json"
+  },
+  "all_duas_file": "doas.json"
+}

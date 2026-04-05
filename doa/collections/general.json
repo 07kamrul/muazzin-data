@@ -1,0 +1,58 @@
+{
+  "collection": "general",
+  "collection_name": "General",
+  "duas": [
+    {
+      "number": 1,
+      "slug": "allahumma-inni-asaluka-al-jannah",
+      "title": "Ask for Paradise and Protection from Hell",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+      "transliteration": "Allahumma inni as'alukal-jannah wa a'udhu bika minan-nar.",
+      "english": "O Allah, I ask You for Paradise and seek refuge in You from the Fire.",
+      "bangla": "হে আল্লাহ, আমি আপনার কাছে জান্নাত প্রার্থনা করছি এবং জাহান্নামের আগুন থেকে আপনার আশ্রয় চাইছি।",
+      "categories": [
+        "general",
+        "akhirah"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473"
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "allahumma-inni-asaluka-al-huda",
+      "title": "For Guidance, Taqwa, Chastity and Sufficiency",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+      "transliteration": "Allahumma inni as'alukal-huda wat-tuqa wal-'afafa wal-ghina.",
+      "english": "O Allah, I ask You for guidance, piety, chastity and sufficiency.",
+      "bangla": "হে আল্লাহ, আমি আপনার কাছে হেদায়াত, তাকওয়া, পবিত্রতা এবং অভাবমুক্তি প্রার্থনা করছি।",
+      "categories": [
+        "guidance_faith",
+        "general"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473"
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "rabbana-atina-fid-dunya",
+      "title": "Good in This World and the Hereafter",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": "Rabbana atina fid-dunya hasanah wa fil-akhirati hasanah wa qina 'adhaban-nar.",
+      "english": "Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+      "bangla": "হে আমাদের রব, আমাদেরকে দুনিয়ায় কল্যাণ দান করুন, আখিরাতেও কল্যাণ দান করুন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।",
+      "categories": [
+        "general",
+        "akhirah"
+      ],
+      "source_urls": [
+        "https://dhakamail.com/religion/54289",
+        "https://www.kalbela.com/religion/92473",
+        "https://celestialshiny.com/100-duas-from-quran-and-sunnah-for-success-and-happiness/"
+      ]
+    }
+  ]
+}
