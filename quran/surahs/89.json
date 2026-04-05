@@ -1,0 +1,284 @@
+{
+  "surah": {
+    "number": 89,
+    "name_arabic": "سُورَةُ الفَجۡرِ",
+    "name_bangla": "আল-ফাজর",
+    "name_english": "Al-Fajr",
+    "name_meaning": "The Dawn",
+    "ayah_count": 30,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 89,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْفَجْرِ",
+      "bangla_translation": "শপথ ফজরের,",
+      "english_translation": "By the dawn",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 2,
+      "arabic_text": "وَلَيَالٍ عَشْرٍ",
+      "bangla_translation": "শপথ দশ রাত্রির, শপথ তার,",
+      "english_translation": "And [by] ten nights",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 3,
+      "arabic_text": "وَالشَّفْعِ وَالْوَتْرِ",
+      "bangla_translation": "যা জোড় ও যা বিজোড়",
+      "english_translation": "And [by] the even [number] and the odd",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 4,
+      "arabic_text": "وَاللَّيْلِ إِذَا يَسْرِ",
+      "bangla_translation": "এবং শপথ রাত্রির যখন তা গত হতে থাকে",
+      "english_translation": "And [by] the night when it passes,",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 5,
+      "arabic_text": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ",
+      "bangla_translation": "এর মধ্যে আছে শপথ জ্ঞানী ব্যক্তির জন্যে।",
+      "english_translation": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 6,
+      "arabic_text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "bangla_translation": "আপনি কি লক্ষ্য করেননি, আপনার পালনকর্তা আদ বংশের ইরাম গোত্রের সাথে কি আচরণ করেছিলেন,",
+      "english_translation": "Have you not considered how your Lord dealt with 'Aad -",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 7,
+      "arabic_text": "إِرَمَ ذَاتِ الْعِمَادِ",
+      "bangla_translation": "যাদের দৈহিক গঠন স্তম্ভ ও খুঁটির ন্যায় দীর্ঘ ছিল এবং",
+      "english_translation": "[With] Iram - who had lofty pillars,",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 8,
+      "arabic_text": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+      "bangla_translation": "যাদের সমান শক্তি ও বলবীর্যে সারা বিশ্বের শহরসমূহে কোন লোক সৃজিত হয়নি",
+      "english_translation": "The likes of whom had never been created in the land?",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 9,
+      "arabic_text": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+      "bangla_translation": "এবং সামুদ গোত্রের সাথে, যারা উপত্যকায় পাথর কেটে গৃহ নির্মাণ করেছিল।",
+      "english_translation": "And [with] Thamud, who carved out the rocks in the valley?",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 10,
+      "arabic_text": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+      "bangla_translation": "এবং বহু কীলকের অধিপতি ফেরাউনের সাথে",
+      "english_translation": "And [with] Pharaoh, owner of the stakes? -",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 11,
+      "arabic_text": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+      "bangla_translation": "যারা দেশে সীমালঙ্ঘন করেছিল।",
+      "english_translation": "[All of] whom oppressed within the lands",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 12,
+      "arabic_text": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+      "bangla_translation": "অতঃপর সেখানে বিস্তর অশান্তি সৃষ্টি করেছিল।",
+      "english_translation": "And increased therein the corruption.",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 13,
+      "arabic_text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "bangla_translation": "অতঃপর আপনার পালনকর্তা তাদেরকে শাস্তির কশাঘাত করলেন।",
+      "english_translation": "So your Lord poured upon them a scourge of punishment.",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 14,
+      "arabic_text": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+      "bangla_translation": "নিশ্চয় আপনার পালকর্তা সতর্ক দৃষ্টি রাখেন।",
+      "english_translation": "Indeed, your Lord is in observation.",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 15,
+      "arabic_text": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+      "bangla_translation": "মানুষ এরূপ যে, যখন তার পালনকর্তা তাকে পরীক্ষা করেন, অতঃপর সম্মান ও অনুগ্রহ দান করেন, তখন বলে, আমার পালনকর্তা আমাকে সম্মান দান করেছেন।",
+      "english_translation": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 16,
+      "arabic_text": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+      "bangla_translation": "এবং যখন তাকে পরীক্ষা করেন, অতঃপর রিযিক সংকুচিত করে দেন, তখন বলেঃ আমার পালনকর্তা আমাকে হেয় করেছেন।",
+      "english_translation": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 17,
+      "arabic_text": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+      "bangla_translation": "এটা অমূলক, বরং তোমরা এতীমকে সম্মান কর না।",
+      "english_translation": "No! But you do not honor the orphan",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 18,
+      "arabic_text": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "bangla_translation": "এবং মিসকীনকে অন্নদানে পরস্পরকে উৎসাহিত কর না।",
+      "english_translation": "And you do not encourage one another to feed the poor.",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 19,
+      "arabic_text": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+      "bangla_translation": "এবং তোমরা মৃতের ত্যাজ্য সম্পত্তি সম্পূর্ণরূপে কুক্ষিগত করে ফেল",
+      "english_translation": "And you consume inheritance, devouring [it] altogether,",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 20,
+      "arabic_text": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+      "bangla_translation": "এবং তোমরা ধন-সম্পদকে প্রাণভরে ভালবাস।",
+      "english_translation": "And you love wealth with immense love.",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 21,
+      "arabic_text": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+      "bangla_translation": "এটা অনুচিত। যখন পৃথিবী চুর্ণ-বিচুর্ণ হবে",
+      "english_translation": "No! When the earth has been leveled - pounded and crushed -",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 22,
+      "arabic_text": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+      "bangla_translation": "এবং আপনার পালনকর্তা ও ফেরেশতাগণ সারিবদ্ধভাবে উপস্থিত হবেন,",
+      "english_translation": "And your Lord has come and the angels, rank upon rank,",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 23,
+      "arabic_text": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+      "bangla_translation": "এবং সেদিন জাহান্নামকে আনা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু এই স্মরণ তার কি কাজে আসবে?",
+      "english_translation": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
+      "juz_number": 30,
+      "page_number": 593
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 24,
+      "arabic_text": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+      "bangla_translation": "সে বলবেঃ হায়, এ জীবনের জন্যে আমি যদি কিছু অগ্রে প্রেরণ করতাম!",
+      "english_translation": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 25,
+      "arabic_text": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+      "bangla_translation": "সেদিন তার শাস্তির মত শাস্তি কেউ দিবে না।",
+      "english_translation": "So on that Day, none will punish [as severely] as His punishment,",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 26,
+      "arabic_text": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+      "bangla_translation": "এবং তার বন্ধনের মত বন্ধন কেউ দিবে না।",
+      "english_translation": "And none will bind [as severely] as His binding [of the evildoers].",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 27,
+      "arabic_text": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+      "bangla_translation": "হে প্রশান্ত মন,",
+      "english_translation": "[To the righteous it will be said], \"O reassured soul,",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 28,
+      "arabic_text": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+      "bangla_translation": "তুমি তোমার পালনকর্তার নিকট ফিরে যাও সন্তুষ্ট ও সন্তোষভাজন হয়ে।",
+      "english_translation": "Return to your Lord, well-pleased and pleasing [to Him],",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 29,
+      "arabic_text": "فَادْخُلِي فِي عِبَادِي",
+      "bangla_translation": "অতঃপর আমার বান্দাদের অন্তর্ভুক্ত হয়ে যাও।",
+      "english_translation": "And enter among My [righteous] servants",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 89,
+      "ayah_number": 30,
+      "arabic_text": "وَادْخُلِي جَنَّتِي",
+      "bangla_translation": "এবং আমার জান্নাতে প্রবেশ কর।",
+      "english_translation": "And enter My Paradise.\"",
+      "juz_number": 30,
+      "page_number": 594
+    }
+  ]
+}

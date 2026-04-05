@@ -1,0 +1,50 @@
+{
+  "surah": {
+    "number": 112,
+    "name_arabic": "سُورَةُ الإِخۡلَاصِ",
+    "name_bangla": "আল-ইখলাস",
+    "name_english": "Al-Ikhlaas",
+    "name_meaning": "Sincerity",
+    "ayah_count": 4,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 112,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "bangla_translation": "বলুন, তিনি আল্লাহ, এক,",
+      "english_translation": "Say, \"He is Allah, [who is] One,",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 112,
+      "ayah_number": 2,
+      "arabic_text": "اللَّهُ الصَّمَدُ",
+      "bangla_translation": "আল্লাহ অমুখাপেক্ষী,",
+      "english_translation": "Allah, the Eternal Refuge.",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 112,
+      "ayah_number": 3,
+      "arabic_text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "bangla_translation": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+      "english_translation": "He neither begets nor is born,",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 112,
+      "ayah_number": 4,
+      "arabic_text": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "bangla_translation": "এবং তার সমতুল্য কেউ নেই।",
+      "english_translation": "Nor is there to Him any equivalent.\"",
+      "juz_number": 30,
+      "page_number": 604
+    }
+  ]
+}

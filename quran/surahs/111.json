@@ -1,0 +1,59 @@
+{
+  "surah": {
+    "number": 111,
+    "name_arabic": "سُورَةُ المَسَدِ",
+    "name_bangla": "আল-মাসাদ",
+    "name_english": "Al-Masad",
+    "name_meaning": "The Palm Fibre",
+    "ayah_count": 5,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 111,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "bangla_translation": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,",
+      "english_translation": "May the hands of Abu Lahab be ruined, and ruined is he.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 111,
+      "ayah_number": 2,
+      "arabic_text": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "bangla_translation": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+      "english_translation": "His wealth will not avail him or that which he gained.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 111,
+      "ayah_number": 3,
+      "arabic_text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "bangla_translation": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+      "english_translation": "He will [enter to] burn in a Fire of [blazing] flame",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 111,
+      "ayah_number": 4,
+      "arabic_text": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "bangla_translation": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,",
+      "english_translation": "And his wife [as well] - the carrier of firewood.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 111,
+      "ayah_number": 5,
+      "arabic_text": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "bangla_translation": "তার গলদেশে খর্জুরের রশি নিয়ে।",
+      "english_translation": "Around her neck is a rope of [twisted] fiber.",
+      "juz_number": 30,
+      "page_number": 603
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "surah": {
+    "number": 82,
+    "name_arabic": "سُورَةُ الانفِطَارِ",
+    "name_bangla": "আল-ইনফিতার",
+    "name_english": "Al-Infitaar",
+    "name_meaning": "The Cleaving",
+    "ayah_count": 19,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 82,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْفَطَرَتْ",
+      "bangla_translation": "যখন আকাশ বিদীর্ণ হবে,",
+      "english_translation": "When the sky breaks apart",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 2,
+      "arabic_text": "وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ",
+      "bangla_translation": "যখন নক্ষত্রসমূহ ঝরে পড়বে,",
+      "english_translation": "And when the stars fall, scattering,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 3,
+      "arabic_text": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "bangla_translation": "যখন সমুদ্রকে উত্তাল করে তোলা হবে,",
+      "english_translation": "And when the seas are erupted",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 4,
+      "arabic_text": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "bangla_translation": "এবং যখন কবরসমূহ উম্মোচিত হবে,",
+      "english_translation": "And when the [contents of] graves are scattered,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 5,
+      "arabic_text": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ",
+      "bangla_translation": "তখন প্রত্যেকে জেনে নিবে সে কি অগ্রে প্রেরণ করেছে এবং কি পশ্চাতে ছেড়ে এসেছে।",
+      "english_translation": "A soul will [then] know what it has put forth and kept back.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 6,
+      "arabic_text": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+      "bangla_translation": "হে মানুষ, কিসে তোমাকে তোমার মহামহিম পালনকর্তা সম্পর্কে বিভ্রান্ত করল?",
+      "english_translation": "O mankind, what has deceived you concerning your Lord, the Generous,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 7,
+      "arabic_text": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "bangla_translation": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুবিন্যস্ত করেছেন এবং সুষম করেছেন।",
+      "english_translation": "Who created you, proportioned you, and balanced you?",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 8,
+      "arabic_text": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
+      "bangla_translation": "যিনি তোমাকে তাঁর ইচ্ছামত আকৃতিতে গঠন করেছেন।",
+      "english_translation": "In whatever form He willed has He assembled you.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 9,
+      "arabic_text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "bangla_translation": "কখনও বিভ্রান্ত হয়ো না; বরং তোমরা দান-প্রতিদানকে মিথ্যা মনে কর।",
+      "english_translation": "No! But you deny the Recompense.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 10,
+      "arabic_text": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+      "bangla_translation": "অবশ্যই তোমাদের উপর তত্ত্বাবধায়ক নিযুক্ত আছে।",
+      "english_translation": "And indeed, [appointed] over you are keepers,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 11,
+      "arabic_text": "كِرَامًا كَاتِبِينَ",
+      "bangla_translation": "সম্মানিত আমল লেখকবৃন্দ।",
+      "english_translation": "Noble and recording;",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 12,
+      "arabic_text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "bangla_translation": "তারা জানে যা তোমরা কর।",
+      "english_translation": "They know whatever you do.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 13,
+      "arabic_text": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "bangla_translation": "সৎকর্মশীলগণ থাকবে জান্নাতে।",
+      "english_translation": "Indeed, the righteous will be in pleasure,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 14,
+      "arabic_text": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "bangla_translation": "এবং দুষ্কর্মীরা থাকবে জাহান্নামে;",
+      "english_translation": "And indeed, the wicked will be in Hellfire.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 15,
+      "arabic_text": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "bangla_translation": "তারা বিচার দিবসে তথায় প্রবেশ করবে।",
+      "english_translation": "They will [enter to] burn therein on the Day of Recompense,",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 16,
+      "arabic_text": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "bangla_translation": "তারা সেখান থেকে পৃথক হবে না।",
+      "english_translation": "And never therefrom will they be absent.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 17,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "bangla_translation": "আপনি জানেন, বিচার দিবস কি?",
+      "english_translation": "And what can make you know what is the Day of Recompense?",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 18,
+      "arabic_text": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "bangla_translation": "অতঃপর আপনি জানেন, বিচার দিবস কি?",
+      "english_translation": "Then, what can make you know what is the Day of Recompense?",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 82,
+      "ayah_number": 19,
+      "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ",
+      "bangla_translation": "যেদিন কেউ কারও কোন উপকার করতে পারবে না এবং সেদিন সব কতৃꦣ2468;্ব হবে আল্লাহর।",
+      "english_translation": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
+      "juz_number": 30,
+      "page_number": 587
+    }
+  ]
+}

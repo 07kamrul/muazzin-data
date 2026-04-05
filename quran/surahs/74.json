@@ -1,0 +1,518 @@
+{
+  "surah": {
+    "number": 74,
+    "name_arabic": "سُورَةُ المُدَّثِّرِ",
+    "name_bangla": "আল-মুদ্দাসসির",
+    "name_english": "Al-Muddaththir",
+    "name_meaning": "The Cloaked One",
+    "ayah_count": 56,
+    "juz_start": 29,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 74,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُدَّثِّرُ",
+      "bangla_translation": "হে চাদরাবৃত!",
+      "english_translation": "O you who covers himself [with a garment],",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 2,
+      "arabic_text": "قُمْ فَأَنْذِرْ",
+      "bangla_translation": "উঠুন, সতর্ক করুন,",
+      "english_translation": "Arise and warn",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 3,
+      "arabic_text": "وَرَبَّكَ فَكَبِّرْ",
+      "bangla_translation": "আপন পালনকর্তার মাহাত্ম্য ঘোষনা করুন,",
+      "english_translation": "And your Lord glorify",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 4,
+      "arabic_text": "وَثِيَابَكَ فَطَهِّرْ",
+      "bangla_translation": "আপন পোশাক পবিত্র করুন",
+      "english_translation": "And your clothing purify",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 5,
+      "arabic_text": "وَالرُّجْزَ فَاهْجُرْ",
+      "bangla_translation": "এবং অপবিত্রতা থেকে দূরে থাকুন।",
+      "english_translation": "And uncleanliness avoid",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 6,
+      "arabic_text": "وَلَا تَمْنُنْ تَسْتَكْثِرُ",
+      "bangla_translation": "অধিক প্রতিদানের আশায় অন্যকে কিছু দিবেন না।",
+      "english_translation": "And do not confer favor to acquire more",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 7,
+      "arabic_text": "وَلِرَبِّكَ فَاصْبِرْ",
+      "bangla_translation": "এবং আপনার পালনকর্তার উদ্দেশে সবর করুন।",
+      "english_translation": "But for your Lord be patient.",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 8,
+      "arabic_text": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+      "bangla_translation": "যেদিন শিংগায় ফুঁক দেয়া হবে;",
+      "english_translation": "And when the trumpet is blown,",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 9,
+      "arabic_text": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "bangla_translation": "সেদিন হবে কঠিন দিন,",
+      "english_translation": "That Day will be a difficult day",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 10,
+      "arabic_text": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+      "bangla_translation": "কাফেরদের জন্যে এটা সহজ নয়।",
+      "english_translation": "For the disbelievers - not easy.",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 11,
+      "arabic_text": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+      "bangla_translation": "যাকে আমি অনন্য করে সৃষ্টি করেছি, তাকে আমার হাতে ছেড়ে দিন।",
+      "english_translation": "Leave Me with the one I created alone",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 12,
+      "arabic_text": "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا",
+      "bangla_translation": "আমি তাকে বিপুল ধন-সম্পদ দিয়েছি।",
+      "english_translation": "And to whom I granted extensive wealth",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 13,
+      "arabic_text": "وَبَنِينَ شُهُودًا",
+      "bangla_translation": "এবং সদা সংগী পুত্রবর্গ দিয়েছি,",
+      "english_translation": "And children present [with him]",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 14,
+      "arabic_text": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+      "bangla_translation": "এবং তাকে খুব সচ্ছলতা দিয়েছি।",
+      "english_translation": "And spread [everything] before him, easing [his life].",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 15,
+      "arabic_text": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+      "bangla_translation": "এরপরও সে আশা করে যে, আমি তাকে আরও বেশী দেই।",
+      "english_translation": "Then he desires that I should add more.",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 16,
+      "arabic_text": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+      "bangla_translation": "কখনই নয়! সে আমার নিদর্শনসমূহের বিরুদ্ধাচরণকারী।",
+      "english_translation": "No! Indeed, he has been toward Our verses obstinate.",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 17,
+      "arabic_text": "سَأُرْهِقُهُ صَعُودًا",
+      "bangla_translation": "আমি সত্ত্বরই তাকে শাস্তির পাহাড়ে আরোহণ করাব।",
+      "english_translation": "I will cover him with arduous torment.",
+      "juz_number": 29,
+      "page_number": 575
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 18,
+      "arabic_text": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+      "bangla_translation": "সে চিন্তা করেছে এবং মনঃস্থির করেছে,",
+      "english_translation": "Indeed, he thought and deliberated.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 19,
+      "arabic_text": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "bangla_translation": "ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!",
+      "english_translation": "So may he be destroyed [for] how he deliberated.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 20,
+      "arabic_text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "bangla_translation": "আবার ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!",
+      "english_translation": "Then may he be destroyed [for] how he deliberated.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 21,
+      "arabic_text": "ثُمَّ نَظَرَ",
+      "bangla_translation": "সে আবার দৃষ্টিপাত করেছে,",
+      "english_translation": "Then he considered [again];",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 22,
+      "arabic_text": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "bangla_translation": "অতঃপর সে ভ্রূকুঞ্চিত করেছে ও মুখ বিকৃত করেছে,",
+      "english_translation": "Then he frowned and scowled;",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 23,
+      "arabic_text": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+      "bangla_translation": "অতঃপর পৃষ্ঠপ্রদশন করেছে ও অহংকার করেছে।",
+      "english_translation": "Then he turned back and was arrogant",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 24,
+      "arabic_text": "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+      "bangla_translation": "এরপর বলেছেঃ এতো লোক পরস্পরায় প্রাপ্ত জাদু বৈ নয়,",
+      "english_translation": "And said, \"This is not but magic imitated [from others].",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 25,
+      "arabic_text": "إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ",
+      "bangla_translation": "এতো মানুষের উক্তি বৈ নয়।",
+      "english_translation": "This is not but the word of a human being.\"",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 26,
+      "arabic_text": "سَأُصْلِيهِ سَقَرَ",
+      "bangla_translation": "আমি তাকে দাখিল করব অগ্নিতে।",
+      "english_translation": "I will drive him into Saqar.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 27,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+      "bangla_translation": "আপনি কি বুঝলেন অগ্নি কি?",
+      "english_translation": "And what can make you know what is Saqar?",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 28,
+      "arabic_text": "لَا تُبْقِي وَلَا تَذَرُ",
+      "bangla_translation": "এটা অক্ষত রাখবে না এবং ছাড়বেও না।",
+      "english_translation": "It lets nothing remain and leaves nothing [unburned],",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 29,
+      "arabic_text": "لَوَّاحَةٌ لِلْبَشَرِ",
+      "bangla_translation": "মানুষকে দগ্ধ করবে।",
+      "english_translation": "Blackening the skins.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 30,
+      "arabic_text": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "bangla_translation": "এর উপর নিয়োজিত আছে উনিশ (ফেরেশতা)।",
+      "english_translation": "Over it are nineteen [angels].",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 31,
+      "arabic_text": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "bangla_translation": "আমি জাহান্নামের তত্ত্বাবধায়ক ফেরেশতাই রেখেছি। আমি কাফেরদেরকে পরীক্ষা করার জন্যেই তার এই সংখ্যা করেছি-যাতে কিতাবীরা দৃঢ়বিশ্বাসী হয়, মুমিনদের ঈমান বৃদ্ধি পায় এবং কিতাবীরা ও মুমিনগণ সন্দেহ পোষণ না করে এবং যাতে যাদের অন্তরে রোগ আছে, তারা এবং কাফেররা বলে যে, আল্লাহ এর দ্বারা কি বোঝাতে চেয়েছেন। এমনিভাবে আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং যাকে ইচ্ছা সৎপথে চালান। আপনার পালনকর্তার বাহিনী সম্পর্কে একমাত্র তিনিই জানেন এটা তো মানুষের জন্যে উপদেশ বৈ নয়।",
+      "english_translation": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, \"What does Allah intend by this as an example?\" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 32,
+      "arabic_text": "كَلَّا وَالْقَمَرِ",
+      "bangla_translation": "কখনই নয়। চন্দ্রের শপথ,",
+      "english_translation": "No! By the moon",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 33,
+      "arabic_text": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+      "bangla_translation": "শপথ রাত্রির যখন তার অবসান হয়,",
+      "english_translation": "And [by] the night when it departs",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 34,
+      "arabic_text": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+      "bangla_translation": "শপথ প্রভাতকালের যখন তা আলোকোদ্ভাসিত হয়,",
+      "english_translation": "And [by] the morning when it brightens,",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 35,
+      "arabic_text": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+      "bangla_translation": "নিশ্চয় জাহান্নাম গুরুতর বিপদসমূহের অন্যতম,",
+      "english_translation": "Indeed, the Fire is of the greatest [afflictions]",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 36,
+      "arabic_text": "نَذِيرًا لِلْبَشَرِ",
+      "bangla_translation": "মানুষের জন্যে সতর্ককারী।",
+      "english_translation": "As a warning to humanity -",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 37,
+      "arabic_text": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+      "bangla_translation": "তোমাদের মধ্যে যে সামনে অগ্রসর হয় অথবা পশ্চাতে থাকে।",
+      "english_translation": "To whoever wills among you to proceed or stay behind.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 38,
+      "arabic_text": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+      "bangla_translation": "প্রত্যেক ব্যক্তি তার কৃতকর্মের জন্য দায়ী;",
+      "english_translation": "Every soul, for what it has earned, will be retained",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 39,
+      "arabic_text": "إِلَّا أَصْحَابَ الْيَمِينِ",
+      "bangla_translation": "কিন্তু ডানদিকস্থরা,",
+      "english_translation": "Except the companions of the right,",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 40,
+      "arabic_text": "فِي جَنَّاتٍ يَتَسَاءَلُونَ",
+      "bangla_translation": "তারা থাকবে জান্নাতে এবং পরস্পরে জিজ্ঞাসাবাদ করবে।",
+      "english_translation": "[Who will be] in gardens, questioning each other",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 41,
+      "arabic_text": "عَنِ الْمُجْرِمِينَ",
+      "bangla_translation": "অপরাধীদের সম্পর্কে",
+      "english_translation": "About the criminals,",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 42,
+      "arabic_text": "مَا سَلَكَكُمْ فِي سَقَرَ",
+      "bangla_translation": "বলবেঃ তোমাদেরকে কিসে জাহান্নামে নীত করেছে?",
+      "english_translation": "[And asking them], \"What put you into Saqar?\"",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 43,
+      "arabic_text": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+      "bangla_translation": "তারা বলবেঃ আমরা নামায পড়তাম না,",
+      "english_translation": "They will say, \"We were not of those who prayed,",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 44,
+      "arabic_text": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+      "bangla_translation": "অভাবগ্রস্তকে আহার্য্য দিতাম না,",
+      "english_translation": "Nor did we used to feed the poor.",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 45,
+      "arabic_text": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+      "bangla_translation": "আমরা সমালোচকদের সাথে সমালোচনা করতাম।",
+      "english_translation": "And we used to enter into vain discourse with those who engaged [in it],",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 46,
+      "arabic_text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+      "bangla_translation": "এবং আমরা প্রতিফল দিবসকে অস্বীকার করতাম।",
+      "english_translation": "And we used to deny the Day of Recompense",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 47,
+      "arabic_text": "حَتَّىٰ أَتَانَا الْيَقِينُ",
+      "bangla_translation": "আমাদের মৃত্যু পর্যন্ত।",
+      "english_translation": "Until there came to us the certainty.\"",
+      "juz_number": 29,
+      "page_number": 576
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 48,
+      "arabic_text": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+      "bangla_translation": "অতএব, সুপারিশকারীদের সুপারিশ তাদের কোন উপকারে আসবে না।",
+      "english_translation": "So there will not benefit them the intercession of [any] intercessors.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 49,
+      "arabic_text": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+      "bangla_translation": "তাদের কি হল যে, তারা উপদেশ থেকে মুখ ফিরিয়ে নেয়?",
+      "english_translation": "Then what is [the matter] with them that they are, from the reminder, turning away",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 50,
+      "arabic_text": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ",
+      "bangla_translation": "যেন তারা ইতস্ততঃ বিক্ষিপ্ত গর্দভ।",
+      "english_translation": "As if they were alarmed donkeys",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 51,
+      "arabic_text": "فَرَّتْ مِنْ قَسْوَرَةٍ",
+      "bangla_translation": "হট্টগোলের কারণে পলায়নপর।",
+      "english_translation": "Fleeing from a lion?",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 52,
+      "arabic_text": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً",
+      "bangla_translation": "বরং তাদের প্রত্যেকেই চায় তাদের প্রত্যেককে একটি উম্মুক্ত গ্রন্থ দেয়া হোক।",
+      "english_translation": "Rather, every person among them desires that he would be given scriptures spread about.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 53,
+      "arabic_text": "كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ",
+      "bangla_translation": "কখনও না, বরং তারা পরকালকে ভয় করে না।",
+      "english_translation": "No! But they do not fear the Hereafter.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 54,
+      "arabic_text": "كَلَّا إِنَّهُ تَذْكِرَةٌ",
+      "bangla_translation": "কখনও না, এটা তো উপদেশ মাত্র।",
+      "english_translation": "No! Indeed, the Qur'an is a reminder",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 55,
+      "arabic_text": "فَمَنْ شَاءَ ذَكَرَهُ",
+      "bangla_translation": "অতএব, যার ইচ্ছা, সে একে স্মরণ করুক।",
+      "english_translation": "Then whoever wills will remember it.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 74,
+      "ayah_number": 56,
+      "arabic_text": "وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ",
+      "bangla_translation": "তারা স্মরণ করবে না, কিন্তু যদি আল্লাহ চান। তিনিই ভয়ের যোগ্য এবং ক্ষমার অধিকারী।",
+      "english_translation": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness.",
+      "juz_number": 29,
+      "page_number": 577
+    }
+  ]
+}

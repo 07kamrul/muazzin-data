@@ -1,0 +1,86 @@
+{
+  "surah": {
+    "number": 94,
+    "name_arabic": "سُورَةُ الشَّرۡحِ",
+    "name_bangla": "আশ-শারহ",
+    "name_english": "Ash-Sharh",
+    "name_meaning": "The Consolation",
+    "ayah_count": 8,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 94,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "bangla_translation": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
+      "english_translation": "Did We not expand for you, [O Muhammad], your breast?",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 2,
+      "arabic_text": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+      "bangla_translation": "আমি লাঘব করেছি আপনার বোঝা,",
+      "english_translation": "And We removed from you your burden",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 3,
+      "arabic_text": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+      "bangla_translation": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+      "english_translation": "Which had weighed upon your back",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 4,
+      "arabic_text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "bangla_translation": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+      "english_translation": "And raised high for you your repute.",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 5,
+      "arabic_text": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla_translation": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "english_translation": "For indeed, with hardship [will be] ease.",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 6,
+      "arabic_text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla_translation": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "english_translation": "Indeed, with hardship [will be] ease.",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 7,
+      "arabic_text": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+      "bangla_translation": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+      "english_translation": "So when you have finished [your duties], then stand up [for worship].",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 94,
+      "ayah_number": 8,
+      "arabic_text": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+      "bangla_translation": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।",
+      "english_translation": "And to your Lord direct [your] longing.",
+      "juz_number": 30,
+      "page_number": 596
+    }
+  ]
+}

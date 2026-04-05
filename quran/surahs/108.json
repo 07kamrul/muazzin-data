@@ -1,0 +1,41 @@
+{
+  "surah": {
+    "number": 108,
+    "name_arabic": "سُورَةُ الكَوۡثَرِ",
+    "name_bangla": "আল-কাউসার",
+    "name_english": "Al-Kawthar",
+    "name_meaning": "Abundance",
+    "ayah_count": 3,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 108,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "bangla_translation": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+      "english_translation": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 108,
+      "ayah_number": 2,
+      "arabic_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "bangla_translation": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+      "english_translation": "So pray to your Lord and sacrifice [to Him alone].",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 108,
+      "ayah_number": 3,
+      "arabic_text": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "bangla_translation": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।",
+      "english_translation": "Indeed, your enemy is the one cut off.",
+      "juz_number": 30,
+      "page_number": 602
+    }
+  ]
+}

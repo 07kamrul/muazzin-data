@@ -1,0 +1,113 @@
+{
+  "surah": {
+    "number": 100,
+    "name_arabic": "سُورَةُ العَادِيَاتِ",
+    "name_bangla": "আল-আদিয়াত",
+    "name_english": "Al-Aadiyaat",
+    "name_meaning": "The Chargers",
+    "ayah_count": 11,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 100,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْعَادِيَاتِ ضَبْحًا",
+      "bangla_translation": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,",
+      "english_translation": "By the racers, panting,",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 2,
+      "arabic_text": "فَالْمُورِيَاتِ قَدْحًا",
+      "bangla_translation": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
+      "english_translation": "And the producers of sparks [when] striking",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 3,
+      "arabic_text": "فَالْمُغِيرَاتِ صُبْحًا",
+      "bangla_translation": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
+      "english_translation": "And the chargers at dawn,",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 4,
+      "arabic_text": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "bangla_translation": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
+      "english_translation": "Stirring up thereby [clouds of] dust,",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 5,
+      "arabic_text": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "bangla_translation": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-",
+      "english_translation": "Arriving thereby in the center collectively,",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 6,
+      "arabic_text": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "bangla_translation": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
+      "english_translation": "Indeed mankind, to his Lord, is ungrateful.",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 7,
+      "arabic_text": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "bangla_translation": "এবং সে অবশ্য এ বিষয়ে অবহিত",
+      "english_translation": "And indeed, he is to that a witness.",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 8,
+      "arabic_text": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "bangla_translation": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
+      "english_translation": "And indeed he is, in love of wealth, intense.",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 9,
+      "arabic_text": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "bangla_translation": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
+      "english_translation": "But does he not know that when the contents of the graves are scattered",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 10,
+      "arabic_text": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "bangla_translation": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?",
+      "english_translation": "And that within the breasts is obtained,",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 100,
+      "ayah_number": 11,
+      "arabic_text": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+      "bangla_translation": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।",
+      "english_translation": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+      "juz_number": 30,
+      "page_number": 600
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "surah": {
+    "number": 107,
+    "name_arabic": "سُورَةُ المَاعُونِ",
+    "name_bangla": "আল-মাউন",
+    "name_english": "Al-Maa'un",
+    "name_meaning": "Almsgiving",
+    "ayah_count": 7,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 107,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "bangla_translation": "আপনি কি দেখেছেন তাকে, যে বিচারদিবসকে মিথ্যা বলে?",
+      "english_translation": "Have you seen the one who denies the Recompense?",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 2,
+      "arabic_text": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "bangla_translation": "সে সেই ব্যক্তি, যে এতীমকে গলা ধাক্কা দেয়",
+      "english_translation": "For that is the one who drives away the orphan",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 3,
+      "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "bangla_translation": "এবং মিসকীনকে অন্ন দিতে উৎসাহিত করে না।",
+      "english_translation": "And does not encourage the feeding of the poor.",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 4,
+      "arabic_text": "فَوَيْلٌ لِلْمُصَلِّينَ",
+      "bangla_translation": "অতএব দুর্ভোগ সেসব নামাযীর,",
+      "english_translation": "So woe to those who pray",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 5,
+      "arabic_text": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+      "bangla_translation": "যারা তাদের নামায সম্বন্ধে বে-খবর;",
+      "english_translation": "[But] who are heedless of their prayer -",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 6,
+      "arabic_text": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "bangla_translation": "যারা তা লোক-দেখানোর জন্য করে",
+      "english_translation": "Those who make show [of their deeds]",
+      "juz_number": 30,
+      "page_number": 602
+    },
+    {
+      "surah_number": 107,
+      "ayah_number": 7,
+      "arabic_text": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "bangla_translation": "এবং নিত্য ব্যবহার্য্য বস্তু অন্যকে দেয় না।",
+      "english_translation": "And withhold [simple] assistance.",
+      "juz_number": 30,
+      "page_number": 602
+    }
+  ]
+}

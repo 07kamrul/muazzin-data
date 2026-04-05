@@ -1,0 +1,275 @@
+{
+  "surah": {
+    "number": 81,
+    "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+    "name_bangla": "আত-তাকভীর",
+    "name_english": "At-Takwir",
+    "name_meaning": "The Overthrowing",
+    "ayah_count": 29,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 81,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ",
+      "bangla_translation": "যখন সূর্য আলোহীন হয়ে যাবে,",
+      "english_translation": "When the sun is wrapped up [in darkness]",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 2,
+      "arabic_text": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+      "bangla_translation": "যখন নক্ষত্র মলিন হয়ে যাবে,",
+      "english_translation": "And when the stars fall, dispersing,",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 3,
+      "arabic_text": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+      "bangla_translation": "যখন পর্বতমালা অপসারিত হবে,",
+      "english_translation": "And when the mountains are removed",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 4,
+      "arabic_text": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+      "bangla_translation": "যখন দশ মাসের গর্ভবতী উষ্ট্রীসমূহ উপেক্ষিত হবে;",
+      "english_translation": "And when full-term she-camels are neglected",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 5,
+      "arabic_text": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+      "bangla_translation": "যখন বন্য পশুরা একত্রিত হয়ে যাবে,",
+      "english_translation": "And when the wild beasts are gathered",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 6,
+      "arabic_text": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+      "bangla_translation": "যখন সমুদ্রকে উত্তাল করে তোলা হবে,",
+      "english_translation": "And when the seas are filled with flame",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 7,
+      "arabic_text": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+      "bangla_translation": "যখন আত্মাসমূহকে যুগল করা হবে,",
+      "english_translation": "And when the souls are paired",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 8,
+      "arabic_text": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+      "bangla_translation": "যখন জীবন্ত প্রোথিত কন্যাকে জিজ্ঞেস করা হবে,",
+      "english_translation": "And when the girl [who was] buried alive is asked",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 9,
+      "arabic_text": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+      "bangla_translation": "কি অপরাধে তাকে হত্য করা হল?",
+      "english_translation": "For what sin she was killed",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 10,
+      "arabic_text": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+      "bangla_translation": "যখন আমলনামা খোলা হবে,",
+      "english_translation": "And when the pages are made public",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 11,
+      "arabic_text": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+      "bangla_translation": "যখন আকাশের আবরণ অপসারিত হবে,",
+      "english_translation": "And when the sky is stripped away",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 12,
+      "arabic_text": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+      "bangla_translation": "যখন জাহান্নামের অগ্নি প্রজ্বলিত করা হবে",
+      "english_translation": "And when Hellfire is set ablaze",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 13,
+      "arabic_text": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+      "bangla_translation": "এবং যখন জান্নাত সন্নিকটবর্তী হবে,",
+      "english_translation": "And when Paradise is brought near,",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 14,
+      "arabic_text": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+      "bangla_translation": "তখন প্রত্যেকেই জেনে নিবে সে কি উপস্থিত করেছে।",
+      "english_translation": "A soul will [then] know what it has brought [with it].",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 15,
+      "arabic_text": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+      "bangla_translation": "আমি শপথ করি যেসব নক্ষত্রগুলো পশ্চাতে সরে যায়।",
+      "english_translation": "So I swear by the retreating stars -",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 16,
+      "arabic_text": "الْجَوَارِ الْكُنَّسِ",
+      "bangla_translation": "চলমান হয় ও অদৃশ্য হয়,",
+      "english_translation": "Those that run [their courses] and disappear -",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 17,
+      "arabic_text": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+      "bangla_translation": "শপথ নিশাবসান ও",
+      "english_translation": "And by the night as it closes in",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 18,
+      "arabic_text": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+      "bangla_translation": "প্রভাত আগমন কালের,",
+      "english_translation": "And by the dawn when it breathes",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 19,
+      "arabic_text": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "bangla_translation": "নিশ্চয় কোরআন সম্মানিত রসূলের আনীত বাণী,",
+      "english_translation": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 20,
+      "arabic_text": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+      "bangla_translation": "যিনি শক্তিশালী, আরশের মালিকের নিকট মর্যাদাশালী,",
+      "english_translation": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 21,
+      "arabic_text": "مُطَاعٍ ثَمَّ أَمِينٍ",
+      "bangla_translation": "সবার মান্যবর, সেখানকার বিশ্বাসভাজন।",
+      "english_translation": "Obeyed there [in the heavens] and trustworthy.",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 22,
+      "arabic_text": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+      "bangla_translation": "এবং তোমাদের সাথী পাগল নন।",
+      "english_translation": "And your companion is not [at all] mad.",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 23,
+      "arabic_text": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+      "bangla_translation": "তিনি সেই ফেরেশতাকে প্রকাশ্য দিগন্তে দেখেছেন।",
+      "english_translation": "And he has already seen Gabriel in the clear horizon.",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 24,
+      "arabic_text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+      "bangla_translation": "তিনি অদৃশ্য বিষয় বলতে কৃপনতা করেন না।",
+      "english_translation": "And Muhammad is not a withholder of [knowledge of] the unseen.",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 25,
+      "arabic_text": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+      "bangla_translation": "এটা বিতাড়িত শয়তানের উক্তি নয়।",
+      "english_translation": "And the Qur'an is not the word of a devil, expelled [from the heavens].",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 26,
+      "arabic_text": "فَأَيْنَ تَذْهَبُونَ",
+      "bangla_translation": "অতএব, তোমরা কোথায় যাচ্ছ?",
+      "english_translation": "So where are you going?",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 27,
+      "arabic_text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+      "bangla_translation": "এটা তো কেবল বিশ্বাবাসীদের জন্যে উপদেশ,",
+      "english_translation": "It is not except a reminder to the worlds",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 28,
+      "arabic_text": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+      "bangla_translation": "তার জন্যে, যে তোমাদের মধ্যে সোজা চলতে চায়।",
+      "english_translation": "For whoever wills among you to take a right course.",
+      "juz_number": 30,
+      "page_number": 586
+    },
+    {
+      "surah_number": 81,
+      "ayah_number": 29,
+      "arabic_text": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "bangla_translation": "তোমরা আল্লাহ রাব্বুল আলামীনের অভিপ্রায়ের বাইরে অন্য কিছুই ইচ্ছা করতে পার না।",
+      "english_translation": "And you do not will except that Allah wills - Lord of the worlds.",
+      "juz_number": 30,
+      "page_number": 586
+    }
+  ]
+}

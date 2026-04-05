@@ -1,0 +1,68 @@
+{
+  "surah": {
+    "number": 114,
+    "name_arabic": "سُورَةُ النَّاسِ",
+    "name_bangla": "আন-নাস",
+    "name_english": "An-Naas",
+    "name_meaning": "Mankind",
+    "ayah_count": 6,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 114,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "bangla_translation": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার,",
+      "english_translation": "Say, \"I seek refuge in the Lord of mankind,",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 114,
+      "ayah_number": 2,
+      "arabic_text": "مَلِكِ النَّاسِ",
+      "bangla_translation": "মানুষের অধিপতির,",
+      "english_translation": "The Sovereign of mankind.",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 114,
+      "ayah_number": 3,
+      "arabic_text": "إِلَٰهِ النَّاسِ",
+      "bangla_translation": "মানুষের মা’বুদের",
+      "english_translation": "The God of mankind,",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 114,
+      "ayah_number": 4,
+      "arabic_text": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "bangla_translation": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে,",
+      "english_translation": "From the evil of the retreating whisperer -",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 114,
+      "ayah_number": 5,
+      "arabic_text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "bangla_translation": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+      "english_translation": "Who whispers [evil] into the breasts of mankind -",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 114,
+      "ayah_number": 6,
+      "arabic_text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "bangla_translation": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।",
+      "english_translation": "From among the jinn and mankind.\"",
+      "juz_number": 30,
+      "page_number": 604
+    }
+  ]
+}

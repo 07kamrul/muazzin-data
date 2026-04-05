@@ -1,0 +1,185 @@
+{
+  "surah": {
+    "number": 96,
+    "name_arabic": "سُورَةُ العَلَقِ",
+    "name_bangla": "আল-আলাক",
+    "name_english": "Al-Alaq",
+    "name_meaning": "The Clot",
+    "ayah_count": 19,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 96,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "bangla_translation": "পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন",
+      "english_translation": "Recite in the name of your Lord who created -",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 2,
+      "arabic_text": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+      "bangla_translation": "সৃষ্টি করেছেন মানুষকে জমাট রক্ত থেকে।",
+      "english_translation": "Created man from a clinging substance.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 3,
+      "arabic_text": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+      "bangla_translation": "পাঠ করুন, আপনার পালনকর্তা মহা দয়ালু,",
+      "english_translation": "Recite, and your Lord is the most Generous -",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 4,
+      "arabic_text": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "bangla_translation": "যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন,",
+      "english_translation": "Who taught by the pen -",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 5,
+      "arabic_text": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+      "bangla_translation": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না।",
+      "english_translation": "Taught man that which he knew not.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 6,
+      "arabic_text": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+      "bangla_translation": "সত্যি সত্যি মানুষ সীমালংঘন করে,",
+      "english_translation": "No! [But] indeed, man transgresses",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 7,
+      "arabic_text": "أَنْ رَآهُ اسْتَغْنَىٰ",
+      "bangla_translation": "এ কারণে যে, সে নিজেকে অভাবমুক্ত মনে করে।",
+      "english_translation": "Because he sees himself self-sufficient.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 8,
+      "arabic_text": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+      "bangla_translation": "নিশ্চয় আপনার পালনকর্তার দিকেই প্রত্যাবর্তন হবে।",
+      "english_translation": "Indeed, to your Lord is the return.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 9,
+      "arabic_text": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+      "bangla_translation": "আপনি কি তাকে দেখেছেন, যে নিষেধ করে",
+      "english_translation": "Have you seen the one who forbids",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 10,
+      "arabic_text": "عَبْدًا إِذَا صَلَّىٰ",
+      "bangla_translation": "এক বান্দাকে যখন সে নামায পড়ে?",
+      "english_translation": "A servant when he prays?",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 11,
+      "arabic_text": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+      "bangla_translation": "আপনি কি দেখেছেন যদি সে সৎপথে থাকে।",
+      "english_translation": "Have you seen if he is upon guidance",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 12,
+      "arabic_text": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+      "bangla_translation": "অথবা খোদাভীতি শিক্ষা দেয়।",
+      "english_translation": "Or enjoins righteousness?",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 13,
+      "arabic_text": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "bangla_translation": "আপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।",
+      "english_translation": "Have you seen if he denies and turns away -",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 14,
+      "arabic_text": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+      "bangla_translation": "সে কি জানে না যে, আল্লাহ দেখেন?",
+      "english_translation": "Does he not know that Allah sees?",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 15,
+      "arabic_text": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+      "bangla_translation": "কখনই নয়, যদি সে বিরত না হয়, তবে আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই-",
+      "english_translation": "No! If he does not desist, We will surely drag him by the forelock -",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 16,
+      "arabic_text": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "bangla_translation": "মিথ্যাচারী, পাপীর কেশগুচ্ছ।",
+      "english_translation": "A lying, sinning forelock.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 17,
+      "arabic_text": "فَلْيَدْعُ نَادِيَهُ",
+      "bangla_translation": "অতএব, সে তার সভাসদদেরকে আহবান করুক।",
+      "english_translation": "Then let him call his associates;",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 18,
+      "arabic_text": "سَنَدْعُ الزَّبَانِيَةَ",
+      "bangla_translation": "আমিও আহবান করব জাহান্নামের প্রহরীদেরকে",
+      "english_translation": "We will call the angels of Hell.",
+      "juz_number": 30,
+      "page_number": 597
+    },
+    {
+      "surah_number": 96,
+      "ayah_number": 19,
+      "arabic_text": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+      "bangla_translation": "কখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন।",
+      "english_translation": "No! Do not obey him. But prostrate and draw near [to Allah].",
+      "juz_number": 30,
+      "page_number": 597
+    }
+  ]
+}

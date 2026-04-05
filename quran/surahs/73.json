@@ -1,0 +1,194 @@
+{
+  "surah": {
+    "number": 73,
+    "name_arabic": "سُورَةُ المُزَّمِّلِ",
+    "name_bangla": "আল-মুযযাম্মিল",
+    "name_english": "Al-Muzzammil",
+    "name_meaning": "The Enshrouded One",
+    "ayah_count": 20,
+    "juz_start": 29,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 73,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُزَّمِّلُ",
+      "bangla_translation": "হে বস্ত্রাবৃত!",
+      "english_translation": "O you who wraps himself [in clothing],",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 2,
+      "arabic_text": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+      "bangla_translation": "রাত্রিতে দন্ডায়মান হোন কিছু অংশ বাদ দিয়ে;",
+      "english_translation": "Arise [to pray] the night, except for a little -",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 3,
+      "arabic_text": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+      "bangla_translation": "অর্ধরাত্রি অথবা তদপেক্ষা কিছু কম",
+      "english_translation": "Half of it - or subtract from it a little",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 4,
+      "arabic_text": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+      "bangla_translation": "অথবা তদপেক্ষা বেশী এবং কোরআন আবৃত্তি করুন সুবিন্যস্ত ভাবে ও স্পষ্টভাবে।",
+      "english_translation": "Or add to it, and recite the Qur'an with measured recitation.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 5,
+      "arabic_text": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "bangla_translation": "আমি আপনার প্রতি অবতীর্ণ করেছি গুরুত্বপূর্ণ বাণী।",
+      "english_translation": "Indeed, We will cast upon you a heavy word.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 6,
+      "arabic_text": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+      "bangla_translation": "নিশ্চয় এবাদতের জন্যে রাত্রিতে উঠা প্রবৃত্তি দলনে সহায়ক এবং স্পষ্ট উচ্চারণের অনুকূল।",
+      "english_translation": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 7,
+      "arabic_text": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+      "bangla_translation": "নিশ্চয় দিবাভাগে রয়েছে আপনার দীর্ঘ কর্মব্যস্ততা।",
+      "english_translation": "Indeed, for you by day is prolonged occupation.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 8,
+      "arabic_text": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "bangla_translation": "আপনি আপনার পালনকর্তার নাম স্মরণ করুন এবং একাগ্রচিত্তে তাতে মগ্ন হোন।",
+      "english_translation": "And remember the name of your Lord and devote yourself to Him with [complete] devotion.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 9,
+      "arabic_text": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+      "bangla_translation": "তিনি পূর্ব ও পশ্চিমের অধিকর্তা। তিনি ব্যতীত কোন উপাস্য নেই। অতএব, তাঁকেই গ্রহণ করুন কর্মবিধায়করূপে।",
+      "english_translation": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 10,
+      "arabic_text": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "bangla_translation": "কাফেররা যা বলে, তজ্জন্যে আপনি সবর করুন এবং সুন্দরভাবে তাদেরকে পরিহার করে চলুন।",
+      "english_translation": "And be patient over what they say and avoid them with gracious avoidance.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 11,
+      "arabic_text": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "bangla_translation": "বিত্ত-বৈভবের অধিকারী মিথ্যারোপকারীদেরকে আমার হাতে ছেড়ে দিন এবং তাদেরকে কিছু অবকাশ দিন।",
+      "english_translation": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 12,
+      "arabic_text": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+      "bangla_translation": "নিশ্চয় আমার কাছে আছে শিকল ও অগ্নিকুন্ড।",
+      "english_translation": "Indeed, with Us [for them] are shackles and burning fire",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 13,
+      "arabic_text": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "bangla_translation": "গলগ্রহ হয়ে যায় এমন খাদ্য এবং যন্ত্রণাদায়ক শাস্তি।",
+      "english_translation": "And food that chokes and a painful punishment -",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 14,
+      "arabic_text": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+      "bangla_translation": "যেদিন পৃথিবী পর্বতমালা প্রকম্পিত হবে এবং পর্বতসমূহ হয়ে যাবে বহমান বালুকাস্তুপ।",
+      "english_translation": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 15,
+      "arabic_text": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+      "bangla_translation": "আমি তোমাদের কাছে একজন রসূলকে তোমাদের জন্যে সাক্ষী করে প্রেরণ করেছি, যেমন প্রেরণ করেছিলাম ফেরাউনের কাছে একজন রসূল।",
+      "english_translation": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 16,
+      "arabic_text": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+      "bangla_translation": "অতঃপর ফেরাউন সেই রসূলকে অমান্য করল, ফলে আমি তাকে কঠিন শাস্তি দিয়েছি।",
+      "english_translation": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 17,
+      "arabic_text": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+      "bangla_translation": "অতএব, তোমরা কিরূপে আত্নরক্ষা করবে যদি তোমরা সেদিনকে অস্বীকার কর, যেদিন বালককে করে দিব বৃদ্ধ?",
+      "english_translation": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired?",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 18,
+      "arabic_text": "السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+      "bangla_translation": "সেদিন আকাশ বিদীর্ণ হবে। তার প্রতিশ্রুতি অবশ্যই বাস্তবায়িত হবে।",
+      "english_translation": "The heaven will break apart therefrom; ever is His promise fulfilled.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 19,
+      "arabic_text": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+      "bangla_translation": "এটা উপদেশ। অতএব, যার ইচ্ছা, সে তার পালনকর্তার দিকে পথ অবলম্বন করুক।",
+      "english_translation": "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
+      "juz_number": 29,
+      "page_number": 574
+    },
+    {
+      "surah_number": 73,
+      "ayah_number": 20,
+      "arabic_text": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "bangla_translation": "আপনার পালনকর্তা জানেন, আপনি এবাদতের জন্যে দন্ডায়মান হন রাত্রির প্রায় দু’তৃতীয়াংশ, অর্ধাংশ ও তৃতীয়াংশ এবং আপনার সঙ্গীদের একটি দলও দন্ডায়মান হয়। আল্লাহ দিবা ও রাত্রি পরিমাপ করেন। তিনি জানেন, তোমরা এর পূর্ণ হিসাব রাখতে পার না। অতএব তিনি তোমাদের প্রতি ক্ষমা পরায়ন হয়েছেন। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ, ততটুকু আবৃত্তি কর। তিনি জানেন তোমাদের মধ্যে কেউ কেউ অসুস্থ হবে, কেউ কেউ আল্লাহর অনুগ্রহ সন্ধানে দেশে-বিদেশে যাবে এবং কেউ কেউ আল্লাহর পথে জেহাদে লিপ্ত হবে। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ ততটুকু আবৃত্তি কর। তোমরা নামায কায়েম কর, যাকাত দাও এবং আল্লাহকে উত্তম ঋণ দাও। তোমরা নিজেদের জন্যে যা কিছু অগ্রে পাঠাবে, তা আল্লাহর কাছে উত্তম আকারে এবং পুরস্কার হিসেবে বর্ধিতরূপে পাবে। তোমরা আল্লাহর কাছে ক্ষমাপ্রার্থনা কর। নিশ্চয় আল্লাহ ক্ষমাশীল, দয়ালু।",
+      "english_translation": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+      "juz_number": 29,
+      "page_number": 575
+    }
+  ]
+}

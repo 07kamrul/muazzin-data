@@ -1,0 +1,59 @@
+{
+  "surah": {
+    "number": 113,
+    "name_arabic": "سُورَةُ الفَلَقِ",
+    "name_bangla": "আল-ফালাক",
+    "name_english": "Al-Falaq",
+    "name_meaning": "The Dawn",
+    "ayah_count": 5,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 113,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "bangla_translation": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,",
+      "english_translation": "Say, \"I seek refuge in the Lord of daybreak",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 113,
+      "ayah_number": 2,
+      "arabic_text": "مِنْ شَرِّ مَا خَلَقَ",
+      "bangla_translation": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,",
+      "english_translation": "From the evil of that which He created",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 113,
+      "ayah_number": 3,
+      "arabic_text": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "bangla_translation": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,",
+      "english_translation": "And from the evil of darkness when it settles",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 113,
+      "ayah_number": 4,
+      "arabic_text": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "bangla_translation": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে",
+      "english_translation": "And from the evil of the blowers in knots",
+      "juz_number": 30,
+      "page_number": 604
+    },
+    {
+      "surah_number": 113,
+      "ayah_number": 5,
+      "arabic_text": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "bangla_translation": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।",
+      "english_translation": "And from the evil of an envier when he envies.\"",
+      "juz_number": 30,
+      "page_number": 604
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "surah": {
+    "number": 55,
+    "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+    "name_bangla": "আর-রাহমান",
+    "name_english": "Ar-Rahmaan",
+    "name_meaning": "The Beneficent",
+    "ayah_count": 78,
+    "juz_start": 27,
+    "revelation_type": "medinan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 55,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الرَّحْمَٰنُ",
+      "bangla_translation": "করুনাময় আল্লাহ।",
+      "english_translation": "The Most Merciful",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 2,
+      "arabic_text": "عَلَّمَ الْقُرْآنَ",
+      "bangla_translation": "শিক্ষা দিয়েছেন কোরআন,",
+      "english_translation": "Taught the Qur'an,",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 3,
+      "arabic_text": "خَلَقَ الْإِنْسَانَ",
+      "bangla_translation": "সৃষ্টি করেছেন মানুষ,",
+      "english_translation": "Created man,",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 4,
+      "arabic_text": "عَلَّمَهُ الْبَيَانَ",
+      "bangla_translation": "তাকে শিখিয়েছেন বর্ণনা।",
+      "english_translation": "[And] taught him eloquence.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 5,
+      "arabic_text": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+      "bangla_translation": "সূর্য ও চন্দ্র হিসাবমত চলে।",
+      "english_translation": "The sun and the moon [move] by precise calculation,",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 6,
+      "arabic_text": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+      "bangla_translation": "এবং তৃণলতা ও বৃক্ষাদি সেজদারত আছে।",
+      "english_translation": "And the stars and trees prostrate.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 7,
+      "arabic_text": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+      "bangla_translation": "তিনি আকাশকে করেছেন সমুন্নত এবং স্থাপন করেছেন তুলাদন্ড।",
+      "english_translation": "And the heaven He raised and imposed the balance",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 8,
+      "arabic_text": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "bangla_translation": "যাতে তোমরা সীমালংঘন না কর তুলাদন্ডে।",
+      "english_translation": "That you not transgress within the balance.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 9,
+      "arabic_text": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "bangla_translation": "তোমরা ন্যায্য ওজন কায়েম কর এবং ওজনে কম দিয়ো না।",
+      "english_translation": "And establish weight in justice and do not make deficient the balance.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 10,
+      "arabic_text": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "bangla_translation": "তিনি পৃথিবীকে স্থাপন করেছেন সৃষ্টজীবের জন্যে।",
+      "english_translation": "And the earth He laid [out] for the creatures.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 11,
+      "arabic_text": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+      "bangla_translation": "এতে আছে ফলমূল এবং বহিরাবরণবিশিষ্ট খর্জুর বৃক্ষ।",
+      "english_translation": "Therein is fruit and palm trees having sheaths [of dates]",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 12,
+      "arabic_text": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+      "bangla_translation": "আর আছে খোসাবিশিষ্ট শস্য ও সুগন্ধি ফুল।",
+      "english_translation": "And grain having husks and scented plants.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 13,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অনুগ্রহকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 14,
+      "arabic_text": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "bangla_translation": "তিনি মানুষকে সৃষ্টি করেছেন পোড়া মাটির ন্যায় শুষ্ক মৃত্তিকা থেকে।",
+      "english_translation": "He created man from clay like [that of] pottery.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 15,
+      "arabic_text": "وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+      "bangla_translation": "এবং জিনকে সৃষ্টি করেছেন অগ্নিশিখা থেকে।",
+      "english_translation": "And He created the jinn from a smokeless flame of fire.",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 16,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অনুগ্রহ অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 531
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 17,
+      "arabic_text": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+      "bangla_translation": "তিনি দুই উদয়াচল ও দুই অস্তাচলের মালিক।",
+      "english_translation": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 18,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 19,
+      "arabic_text": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "bangla_translation": "তিনি পাশাপাশি দুই দরিয়া প্রবাহিত করেছেন।",
+      "english_translation": "He released the two seas, meeting [side by side];",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 20,
+      "arabic_text": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+      "bangla_translation": "উভয়ের মাঝখানে রয়েছে এক অন্তরাল, যা তারা অতিক্রম করে না।",
+      "english_translation": "Between them is a barrier [so] neither of them transgresses.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 21,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 22,
+      "arabic_text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+      "bangla_translation": "উভয় দরিয়া থেকে উৎপন্ন হয় মোতি ও প্রবাল।",
+      "english_translation": "From both of them emerge pearl and coral.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 23,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 24,
+      "arabic_text": "وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+      "bangla_translation": "দরিয়ায় বিচরণশীল পর্বতদৃশ্য জাহাজসমূহ তাঁরই (নিয়ন্ত্রনাধীন)",
+      "english_translation": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 25,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 26,
+      "arabic_text": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "bangla_translation": "ভূপৃষ্টের সবকিছুই ধ্বংসশীল।",
+      "english_translation": "Everyone upon the earth will perish,",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 27,
+      "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "bangla_translation": "একমাত্র আপনার মহিমায় ও মহানুভব পালনকর্তার সত্তা ছাড়া।",
+      "english_translation": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 28,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 29,
+      "arabic_text": "يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+      "bangla_translation": "নভোমন্ডল ও ভূমন্ডলের সবাই তাঁর কাছে প্রার্থী। তিনি সর্বদাই কোন না কোন কাজে রত আছেন।",
+      "english_translation": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 30,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 31,
+      "arabic_text": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+      "bangla_translation": "হে জিন ও মানব! আমি শীঘ্রই তোমাদের জন্যে কর্মমুক্ত হয়ে যাব।",
+      "english_translation": "We will attend to you, O prominent beings.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 32,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 33,
+      "arabic_text": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا ۚ لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ",
+      "bangla_translation": "হে জিন ও মানবকূল, নভোমন্ডল ও ভূমন্ডলের প্রান্ত অতিক্রম করা যদি তোমাদের সাধ্যে কুলায়, তবে অতিক্রম কর। কিন্তু ছাড়পত্র ব্যতীত তোমরা তা অতিক্রম করতে পারবে না।",
+      "english_translation": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 34,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 35,
+      "arabic_text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+      "bangla_translation": "ছাড়া হবে তোমাদের প্রতি অগ্নিস্ফুলিঙ্গ ও ধুম্রকুঞ্জ তখন তোমরা সেসব প্রতিহত করতে পারবে না।",
+      "english_translation": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 36,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 37,
+      "arabic_text": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "bangla_translation": "যেদিন আকাশ বিদীর্ণ হবে তখন সেটি রক্তবর্ণে রঞ্জিত চামড়ার মত হয়ে যাবে।",
+      "english_translation": "And when the heaven is split open and becomes rose-colored like oil -",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 38,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 39,
+      "arabic_text": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
+      "bangla_translation": "সেদিন মানুষ না তার অপরাধ সম্পর্কে জিজ্ঞাসিত হবে, না জিন।",
+      "english_translation": "Then on that Day none will be asked about his sin among men or jinn.",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 40,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 532
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 41,
+      "arabic_text": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+      "bangla_translation": "অপরাধীদের পরিচয় পাওয়া যাবে তাদের চেহারা থেকে; অতঃপর তাদের কপালের চুল ও পা ধরে টেনে নেয়া হবে।",
+      "english_translation": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 42,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 43,
+      "arabic_text": "هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+      "bangla_translation": "এটাই জাহান্নাম, যাকে অপরাধীরা মিথ্যা বলত।",
+      "english_translation": "This is Hell, which the criminals deny.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 44,
+      "arabic_text": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+      "bangla_translation": "তারা জাহান্নামের অগ্নি ও ফুটন্ত পানির মাঝখানে প্রদক্ষিণ করবে।",
+      "english_translation": "They will go around between it and scalding water, heated [to the utmost degree].",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 45,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 46,
+      "arabic_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+      "bangla_translation": "যে ব্যক্তি তার পালনকর্তার সামনে পেশ হওয়ার ভয় রাখে, তার জন্যে রয়েছে দু’টি উদ্যান।",
+      "english_translation": "But for he who has feared the position of his Lord are two gardens -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 47,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 48,
+      "arabic_text": "ذَوَاتَا أَفْنَانٍ",
+      "bangla_translation": "উভয় উদ্যানই ঘন শাখা-পল্লববিশিষ্ট।",
+      "english_translation": "Having [spreading] branches.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 49,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 50,
+      "arabic_text": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "bangla_translation": "উভয় উদ্যানে আছে বহমান দুই প্রস্রবন।",
+      "english_translation": "In both of them are two springs, flowing.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 51,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 52,
+      "arabic_text": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+      "bangla_translation": "উভয়ের মধ্যে প্রত্যেক ফল বিভিন্ন রকমের হবে।",
+      "english_translation": "In both of them are of every fruit, two kinds.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 53,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 54,
+      "arabic_text": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+      "bangla_translation": "তারা তথায় রেশমের আস্তরবিশিষ্ট বিছানায় হেলান দিয়ে বসবে। উভয় উদ্যানের ফল তাদের নিকট ঝুলবে।",
+      "english_translation": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 55,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 56,
+      "arabic_text": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "bangla_translation": "তথায় থাকবে আনতনয়ন রমনীগন, কোন জিন ও মানব পূর্বে যাদের ব্যবহার করেনি।",
+      "english_translation": "In them are women limiting [their] glances, untouched before them by man or jinni -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 57,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 58,
+      "arabic_text": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+      "bangla_translation": "প্রবাল ও পদ্মরাগ সদৃশ রমণীগণ।",
+      "english_translation": "As if they were rubies and coral.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 59,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 60,
+      "arabic_text": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+      "bangla_translation": "সৎকাজের প্রতিদান উত্তম পুরস্কার ব্যতীত কি হতে পারে?",
+      "english_translation": "Is the reward for good [anything] but good?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 61,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 62,
+      "arabic_text": "وَمِنْ دُونِهِمَا جَنَّتَانِ",
+      "bangla_translation": "এই দু’টি ছাড়া আরও দু’টি উদ্যান রয়েছে।",
+      "english_translation": "And below them both [in excellence] are two [other] gardens -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 63,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 64,
+      "arabic_text": "مُدْهَامَّتَانِ",
+      "bangla_translation": "কালোমত ঘন সবুজ।",
+      "english_translation": "Dark green [in color].",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 65,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 66,
+      "arabic_text": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "bangla_translation": "তথায় আছে উদ্বেলিত দুই প্রস্রবণ।",
+      "english_translation": "In both of them are two springs, spouting.",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 67,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 533
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 68,
+      "arabic_text": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "bangla_translation": "তথায় আছে ফল-মূল, খর্জুর ও আনার।",
+      "english_translation": "In both of them are fruit and palm trees and pomegranates.",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 69,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 70,
+      "arabic_text": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+      "bangla_translation": "সেখানে থাকবে সচ্চরিত্রা সুন্দরী রমণীগণ।",
+      "english_translation": "In them are good and beautiful women -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 71,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 72,
+      "arabic_text": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+      "bangla_translation": "তাঁবুতে অবস্থানকারিণী হুরগণ।",
+      "english_translation": "Fair ones reserved in pavilions -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 73,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 74,
+      "arabic_text": "لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "bangla_translation": "কোন জিন ও মানব পূর্বে তাদেরকে স্পর্শ করেনি।",
+      "english_translation": "Untouched before them by man or jinni -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 75,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny? -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 76,
+      "arabic_text": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+      "bangla_translation": "তারা সবুজ মসনদে এবং উৎকৃষ্ট মূল্যবান বিছানায় হেলান দিয়ে বসবে।",
+      "english_translation": "Reclining on green cushions and beautiful fine carpets.",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 77,
+      "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bangla_translation": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+      "english_translation": "So which of the favors of your Lord would you deny?",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 55,
+      "ayah_number": 78,
+      "arabic_text": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+      "bangla_translation": "কত পূণ্যময় আপনার পালনকর্তার নাম, যিনি মহিমাময় ও মহানুভব।",
+      "english_translation": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+      "juz_number": 27,
+      "page_number": 534
+    }
+  ]
+}

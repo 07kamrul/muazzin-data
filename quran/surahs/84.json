@@ -1,0 +1,239 @@
+{
+  "surah": {
+    "number": 84,
+    "name_arabic": "سُورَةُ الانشِقَاقِ",
+    "name_bangla": "আল-ইনশিকাক",
+    "name_english": "Al-Inshiqaaq",
+    "name_meaning": "The Splitting Open",
+    "ayah_count": 25,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 84,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْشَقَّتْ",
+      "bangla_translation": "যখন আকাশ বিদীর্ণ হবে,",
+      "english_translation": "When the sky has split [open]",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 2,
+      "arabic_text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "bangla_translation": "ও তার পালনকর্তার আদেশ পালন করবে এবং আকাশ এরই উপযুক্ত",
+      "english_translation": "And has responded to its Lord and was obligated [to do so]",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 3,
+      "arabic_text": "وَإِذَا الْأَرْضُ مُدَّتْ",
+      "bangla_translation": "এবং যখন পৃথিবীকে সম্প্রসারিত করা হবে।",
+      "english_translation": "And when the earth has been extended",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 4,
+      "arabic_text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "bangla_translation": "এবং পৃথিবী তার গর্ভস্থিত সবকিছু বাইরে নিক্ষেপ করবে ও শুন্যগর্ভ হয়ে যাবে।",
+      "english_translation": "And has cast out that within it and relinquished [it]",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 5,
+      "arabic_text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "bangla_translation": "এবং তার পালনকর্তার আদেশ পালন করবে এবং পৃথিবী এরই উপযুক্ত।",
+      "english_translation": "And has responded to its Lord and was obligated [to do so] -",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 6,
+      "arabic_text": "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+      "bangla_translation": "হে মানুষ, তোমাকে তোমরা পালনকর্তা পর্যন্ত পৌছতে কষ্ট স্বীকার করতে হবে, অতঃপর তার সাক্ষাৎ ঘটবে।",
+      "english_translation": "O mankind, indeed you are laboring toward your Lord with [great] exertion and will meet it.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 7,
+      "arabic_text": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+      "bangla_translation": "যাকে তার আমলনামা ডান হাতে দেয়া হবে",
+      "english_translation": "Then as for he who is given his record in his right hand,",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 8,
+      "arabic_text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "bangla_translation": "তার হিসাব-নিকাশ সহজে হয়ে যাবে",
+      "english_translation": "He will be judged with an easy account",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 9,
+      "arabic_text": "وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+      "bangla_translation": "এবং সে তার পরিবার-পরিজনের কাছে হৃষ্টচিত্তে ফিরে যাবে",
+      "english_translation": "And return to his people in happiness.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 10,
+      "arabic_text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+      "bangla_translation": "এবং যাকে তার আমলনামা পিঠের পশ্চাদ্দিক থেকে দেয়া, হবে,",
+      "english_translation": "But as for he who is given his record behind his back,",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 11,
+      "arabic_text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+      "bangla_translation": "সে মৃত্যুকে আহবান করবে,",
+      "english_translation": "He will cry out for destruction",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 12,
+      "arabic_text": "وَيَصْلَىٰ سَعِيرًا",
+      "bangla_translation": "এবং জাহান্নামে প্রবেশ করবে।",
+      "english_translation": "And [enter to] burn in a Blaze.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 13,
+      "arabic_text": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+      "bangla_translation": "সে তার পরিবার-পরিজনের মধ্যে আনন্দিত ছিল।",
+      "english_translation": "Indeed, he had [once] been among his people in happiness;",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 14,
+      "arabic_text": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+      "bangla_translation": "সে মনে করত যে, সে কখনও ফিরে যাবে না।",
+      "english_translation": "Indeed, he had thought he would never return [to Allah].",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 15,
+      "arabic_text": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+      "bangla_translation": "কেন যাবে না, তার পালনকর্তা তো তাকে দেখতেন।",
+      "english_translation": "But yes! Indeed, his Lord was ever of him, Seeing.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 16,
+      "arabic_text": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+      "bangla_translation": "আমি শপথ করি সন্ধ্যাকালীন লাল আভার",
+      "english_translation": "So I swear by the twilight glow",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 17,
+      "arabic_text": "وَاللَّيْلِ وَمَا وَسَقَ",
+      "bangla_translation": "এবং রাত্রির, এবং তাতে যার সমাবেশ ঘটে",
+      "english_translation": "And [by] the night and what it envelops",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 18,
+      "arabic_text": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+      "bangla_translation": "এবং চন্দ্রের, যখন তা পূর্ণরূপ লাভ করে,",
+      "english_translation": "And [by] the moon when it becomes full",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 19,
+      "arabic_text": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+      "bangla_translation": "নিশ্চয় তোমরা এক সিঁড়ি থেকে আরেক সিঁড়িতে আরোহণ করবে।",
+      "english_translation": "[That] you will surely experience state after state.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 20,
+      "arabic_text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "bangla_translation": "অতএব, তাদের কি হল যে, তারা ঈমান আনে না?",
+      "english_translation": "So what is [the matter] with them [that] they do not believe,",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 21,
+      "arabic_text": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+      "bangla_translation": "যখন তাদের কাছে কোরআন পাঠ করা হয়, তখন সেজদা করে না।",
+      "english_translation": "And when the Qur'an is recited to them, they do not prostrate [to Allah]?",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 22,
+      "arabic_text": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+      "bangla_translation": "বরং কাফেররা এর প্রতি মিথ্যারোপ করে।",
+      "english_translation": "But those who have disbelieved deny,",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 23,
+      "arabic_text": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "bangla_translation": "তারা যা সংরক্ষণ করে, আল্লাহ তা জানেন।",
+      "english_translation": "And Allah is most knowing of what they keep within themselves.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 24,
+      "arabic_text": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+      "bangla_translation": "অতএব, তাদেরকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দিন।",
+      "english_translation": "So give them tidings of a painful punishment,",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 84,
+      "ayah_number": 25,
+      "arabic_text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "bangla_translation": "কিন্তু যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, তাদের জন্য রয়েছে অফুরন্ত পুরস্কার।",
+      "english_translation": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
+      "juz_number": 30,
+      "page_number": 589
+    }
+  ]
+}

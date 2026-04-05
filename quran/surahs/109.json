@@ -1,0 +1,68 @@
+{
+  "surah": {
+    "number": 109,
+    "name_arabic": "سُورَةُ الكَافِرُونَ",
+    "name_bangla": "আল-কাফিরুন",
+    "name_english": "Al-Kaafiroon",
+    "name_meaning": "The Disbelievers",
+    "ayah_count": 6,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 109,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "bangla_translation": "বলুন, হে কাফেরকূল,",
+      "english_translation": "Say, \"O disbelievers,",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 109,
+      "ayah_number": 2,
+      "arabic_text": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "bangla_translation": "আমি এবাদত করিনা, তোমরা যার এবাদত কর।",
+      "english_translation": "I do not worship what you worship.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 109,
+      "ayah_number": 3,
+      "arabic_text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "bangla_translation": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+      "english_translation": "Nor are you worshippers of what I worship.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 109,
+      "ayah_number": 4,
+      "arabic_text": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+      "bangla_translation": "এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।",
+      "english_translation": "Nor will I be a worshipper of what you worship.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 109,
+      "ayah_number": 5,
+      "arabic_text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "bangla_translation": "তোমরা এবাদতকারী নও, যার এবাদত আমি করি।",
+      "english_translation": "Nor will you be worshippers of what I worship.",
+      "juz_number": 30,
+      "page_number": 603
+    },
+    {
+      "surah_number": 109,
+      "ayah_number": 6,
+      "arabic_text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "bangla_translation": "তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।",
+      "english_translation": "For you is your religion, and for me is my religion.\"",
+      "juz_number": 30,
+      "page_number": 603
+    }
+  ]
+}

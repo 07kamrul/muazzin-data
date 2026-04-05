@@ -1,0 +1,878 @@
+{
+  "surah": {
+    "number": 56,
+    "name_arabic": "سُورَةُ الوَاقِعَةِ",
+    "name_bangla": "আল-ওয়াকিআহ",
+    "name_english": "Al-Waaqia",
+    "name_meaning": "The Inevitable",
+    "ayah_count": 96,
+    "juz_start": 27,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 56,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا وَقَعَتِ الْوَاقِعَةُ",
+      "bangla_translation": "যখন কিয়ামতের ঘটনা ঘটবে,",
+      "english_translation": "When the Occurrence occurs,",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 2,
+      "arabic_text": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "bangla_translation": "যার বাস্তবতায় কোন সংশয় নেই।",
+      "english_translation": "There is, at its occurrence, no denial.",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 3,
+      "arabic_text": "خَافِضَةٌ رَافِعَةٌ",
+      "bangla_translation": "এটা নীচু করে দেবে, সমুন্নত করে দেবে।",
+      "english_translation": "It will bring down [some] and raise up [others].",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 4,
+      "arabic_text": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+      "bangla_translation": "যখন প্রবলভাবে প্রকম্পিত হবে পৃথিবী।",
+      "english_translation": "When the earth is shaken with convulsion",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 5,
+      "arabic_text": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+      "bangla_translation": "এবং পর্বতমালা ভেঙ্গে চুরমার হয়ে যাবে।",
+      "english_translation": "And the mountains are broken down, crumbling",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 6,
+      "arabic_text": "فَكَانَتْ هَبَاءً مُنْبَثًّا",
+      "bangla_translation": "অতঃপর তা হয়ে যাবে উৎক্ষিপ্ত ধূলিকণা।",
+      "english_translation": "And become dust dispersing.",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 7,
+      "arabic_text": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+      "bangla_translation": "এবং তোমরা তিনভাবে বিভক্ত হয়ে পড়বে।",
+      "english_translation": "And you become [of] three kinds:",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 8,
+      "arabic_text": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+      "bangla_translation": "যারা ডান দিকে, কত ভাগ্যবান তারা।",
+      "english_translation": "Then the companions of the right - what are the companions of the right?",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 9,
+      "arabic_text": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+      "bangla_translation": "এবং যারা বামদিকে, কত হতভাগা তারা।",
+      "english_translation": "And the companions of the left - what are the companions of the left?",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 10,
+      "arabic_text": "وَالسَّابِقُونَ السَّابِقُونَ",
+      "bangla_translation": "অগ্রবর্তীগণ তো অগ্রবর্তীই।",
+      "english_translation": "And the forerunners, the forerunners -",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 11,
+      "arabic_text": "أُولَٰئِكَ الْمُقَرَّبُونَ",
+      "bangla_translation": "তারাই নৈকট্যশীল,",
+      "english_translation": "Those are the ones brought near [to Allah]",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 12,
+      "arabic_text": "فِي جَنَّاتِ النَّعِيمِ",
+      "bangla_translation": "অবদানের উদ্যানসমূহে,",
+      "english_translation": "In the Gardens of Pleasure,",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 13,
+      "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "bangla_translation": "তারা একদল পূর্ববর্তীদের মধ্য থেকে।",
+      "english_translation": "A [large] company of the former peoples",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 14,
+      "arabic_text": "وَقَلِيلٌ مِنَ الْآخِرِينَ",
+      "bangla_translation": "এবং অল্পসংখ্যক পরবর্তীদের মধ্যে থেকে।",
+      "english_translation": "And a few of the later peoples,",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 15,
+      "arabic_text": "عَلَىٰ سُرُرٍ مَوْضُونَةٍ",
+      "bangla_translation": "স্বর্ণ খচিত সিংহাসন।",
+      "english_translation": "On thrones woven [with ornament],",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 16,
+      "arabic_text": "مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+      "bangla_translation": "তারা তাতে হেলান দিয়ে বসবে পরস্পর মুখোমুখি হয়ে।",
+      "english_translation": "Reclining on them, facing each other.",
+      "juz_number": 27,
+      "page_number": 534
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 17,
+      "arabic_text": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ",
+      "bangla_translation": "তাদের কাছে ঘোরাফেরা করবে চির কিশোরেরা।",
+      "english_translation": "There will circulate among them young boys made eternal",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 18,
+      "arabic_text": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ",
+      "bangla_translation": "পানপাত্র কুঁজা ও খাঁটি সূরাপূর্ণ পেয়ালা হাতে নিয়ে,",
+      "english_translation": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 19,
+      "arabic_text": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ",
+      "bangla_translation": "যা পান করলে তাদের শিরঃপীড়া হবে না এবং বিকারগ্রস্ত ও হবে না।",
+      "english_translation": "No headache will they have therefrom, nor will they be intoxicated -",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 20,
+      "arabic_text": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ",
+      "bangla_translation": "আর তাদের পছন্দমত ফল-মুল নিয়ে,",
+      "english_translation": "And fruit of what they select",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 21,
+      "arabic_text": "وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ",
+      "bangla_translation": "এবং রুচিমত পাখীর মাংস নিয়ে।",
+      "english_translation": "And the meat of fowl, from whatever they desire.",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 22,
+      "arabic_text": "وَحُورٌ عِينٌ",
+      "bangla_translation": "তথায় থাকবে আনতনয়না হুরগণ,",
+      "english_translation": "And [for them are] fair women with large, [beautiful] eyes,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 23,
+      "arabic_text": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+      "bangla_translation": "আবরণে রক্ষিত মোতির ন্যায়,",
+      "english_translation": "The likenesses of pearls well-protected,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 24,
+      "arabic_text": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+      "bangla_translation": "তারা যা কিছু করত, তার পুরস্কারস্বরূপ।",
+      "english_translation": "As reward for what they used to do.",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 25,
+      "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "bangla_translation": "তারা তথায় অবান্তর ও কোন খারাপ কথা শুনবে না।",
+      "english_translation": "They will not hear therein ill speech or commission of sin -",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 26,
+      "arabic_text": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+      "bangla_translation": "কিন্তু শুনবে সালাম আর সালাম।",
+      "english_translation": "Only a saying: \"Peace, peace.\"",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 27,
+      "arabic_text": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+      "bangla_translation": "যারা ডান দিকে থাকবে, তারা কত ভাগ্যবান।",
+      "english_translation": "The companions of the right - what are the companions of the right?",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 28,
+      "arabic_text": "فِي سِدْرٍ مَخْضُودٍ",
+      "bangla_translation": "তারা থাকবে কাঁটাবিহীন বদরিকা বৃক্ষে।",
+      "english_translation": "[They will be] among lote trees with thorns removed",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 29,
+      "arabic_text": "وَطَلْحٍ مَنْضُودٍ",
+      "bangla_translation": "এবং কাঁদি কাঁদি কলায়,",
+      "english_translation": "And [banana] trees layered [with fruit]",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 30,
+      "arabic_text": "وَظِلٍّ مَمْدُودٍ",
+      "bangla_translation": "এবং দীর্ঘ ছায়ায়।",
+      "english_translation": "And shade extended",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 31,
+      "arabic_text": "وَمَاءٍ مَسْكُوبٍ",
+      "bangla_translation": "এবং প্রবাহিত পানিতে,",
+      "english_translation": "And water poured out",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 32,
+      "arabic_text": "وَفَاكِهَةٍ كَثِيرَةٍ",
+      "bangla_translation": "ও প্রচুর ফল-মূলে,",
+      "english_translation": "And fruit, abundant [and varied],",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 33,
+      "arabic_text": "لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "bangla_translation": "যা শেষ হবার নয় এবং নিষিদ্ধ ও নয়,",
+      "english_translation": "Neither limited [to season] nor forbidden,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 34,
+      "arabic_text": "وَفُرُشٍ مَرْفُوعَةٍ",
+      "bangla_translation": "আর থাকবে সমুন্নত শয্যায়।",
+      "english_translation": "And [upon] beds raised high.",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 35,
+      "arabic_text": "إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً",
+      "bangla_translation": "আমি জান্নাতী রমণীগণকে বিশেষরূপে সৃষ্টি করেছি।",
+      "english_translation": "Indeed, We have produced the women of Paradise in a [new] creation",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 36,
+      "arabic_text": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+      "bangla_translation": "অতঃপর তাদেরকে করেছি চিরকুমারী।",
+      "english_translation": "And made them virgins,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 37,
+      "arabic_text": "عُرُبًا أَتْرَابًا",
+      "bangla_translation": "কামিনী, সমবয়স্কা।",
+      "english_translation": "Devoted [to their husbands] and of equal age,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 38,
+      "arabic_text": "لِأَصْحَابِ الْيَمِينِ",
+      "bangla_translation": "ডান দিকের লোকদের জন্যে।",
+      "english_translation": "For the companions of the right [who are]",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 39,
+      "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "bangla_translation": "তাদের একদল হবে পূর্ববর্তীদের মধ্য থেকে।",
+      "english_translation": "A company of the former peoples",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 40,
+      "arabic_text": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+      "bangla_translation": "এবং একদল পরবর্তীদের মধ্য থেকে।",
+      "english_translation": "And a company of the later peoples.",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 41,
+      "arabic_text": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+      "bangla_translation": "বামপার্শ্বস্থ লোক, কত না হতভাগা তারা।",
+      "english_translation": "And the companions of the left - what are the companions of the left?",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 42,
+      "arabic_text": "فِي سَمُومٍ وَحَمِيمٍ",
+      "bangla_translation": "তারা থাকবে প্রখর বাষ্পে এবং উত্তপ্ত পানিতে,",
+      "english_translation": "[They will be] in scorching fire and scalding water",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 43,
+      "arabic_text": "وَظِلٍّ مِنْ يَحْمُومٍ",
+      "bangla_translation": "এবং ধুম্রকুঞ্জের ছায়ায়।",
+      "english_translation": "And a shade of black smoke,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 44,
+      "arabic_text": "لَا بَارِدٍ وَلَا كَرِيمٍ",
+      "bangla_translation": "যা শীতল নয় এবং আরামদায়কও নয়।",
+      "english_translation": "Neither cool nor beneficial.",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 45,
+      "arabic_text": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "bangla_translation": "তারা ইতিপূর্বে স্বাচ্ছন্দ্যশীল ছিল।",
+      "english_translation": "Indeed they were, before that, indulging in affluence,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 46,
+      "arabic_text": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ",
+      "bangla_translation": "তারা সদাসর্বদা ঘোরতর পাপকর্মে ডুবে থাকত।",
+      "english_translation": "And they used to persist in the great violation,",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 47,
+      "arabic_text": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "bangla_translation": "তারা বলতঃ আমরা যখন মরে অস্থি ও মৃত্তিকায় পরিণত হয়ে যাব, তখনও কি পুনরুত্থিত হব?",
+      "english_translation": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 48,
+      "arabic_text": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+      "bangla_translation": "এবং আমাদের পূর্বপুরুষগণও!",
+      "english_translation": "And our forefathers [as well]?\"",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 49,
+      "arabic_text": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+      "bangla_translation": "বলুনঃ পূর্ববর্তী ও পরবর্তীগণ,",
+      "english_translation": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 50,
+      "arabic_text": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "bangla_translation": "সবাই একত্রিত হবে এক নির্দিষ্ট দিনের নির্দিষ্ট সময়ে।",
+      "english_translation": "Are to be gathered together for the appointment of a known Day.\"",
+      "juz_number": 27,
+      "page_number": 535
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 51,
+      "arabic_text": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+      "bangla_translation": "অতঃপর হে পথভ্রষ্ট, মিথ্যারোপকারীগণ।",
+      "english_translation": "Then indeed you, O those astray [who are] deniers,",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 52,
+      "arabic_text": "لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ",
+      "bangla_translation": "তোমরা অবশ্যই ভক্ষণ করবে যাক্কুম বৃক্ষ থেকে,",
+      "english_translation": "Will be eating from trees of zaqqum",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 53,
+      "arabic_text": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+      "bangla_translation": "অতঃপর তা দ্বারা উদর পূর্ণ করবে,",
+      "english_translation": "And filling with it your bellies",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 54,
+      "arabic_text": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+      "bangla_translation": "অতঃপর তার উপর পান করবে উত্তপ্ত পানি।",
+      "english_translation": "And drinking on top of it from scalding water",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 55,
+      "arabic_text": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+      "bangla_translation": "পান করবে পিপাসিত উটের ন্যায়।",
+      "english_translation": "And will drink as the drinking of thirsty camels.",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 56,
+      "arabic_text": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+      "bangla_translation": "কেয়ামতের দিন এটাই হবে তাদের আপ্যায়ন।",
+      "english_translation": "That is their accommodation on the Day of Recompense.",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 57,
+      "arabic_text": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "bangla_translation": "আমি সৃষ্টি করেছি তোমাদেরকে। অতঃপর কেন তোমরা তা সত্য বলে বিশ্বাস কর না।",
+      "english_translation": "We have created you, so why do you not believe?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 58,
+      "arabic_text": "أَفَرَأَيْتُمْ مَا تُمْنُونَ",
+      "bangla_translation": "তোমরা কি ভেবে দেখেছ, তোমাদের বীর্যপাত সম্পর্কে।",
+      "english_translation": "Have you seen that which you emit?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 59,
+      "arabic_text": "أَأَنْتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+      "bangla_translation": "তোমরা তাকে সৃষ্টি কর, না আমি সৃষ্টি করি?",
+      "english_translation": "Is it you who creates it, or are We the Creator?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 60,
+      "arabic_text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "bangla_translation": "আমি তোমাদের মৃত্যুকাল নির্ধারিত করেছি এবং আমি অক্ষম নই।",
+      "english_translation": "We have decreed death among you, and We are not to be outdone",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 61,
+      "arabic_text": "عَلَىٰ أَنْ نُبَدِّلَ أَمْثَالَكُمْ وَنُنْشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+      "bangla_translation": "এ ব্যাপারে যে, তোমাদের পরিবর্তে তোমাদের মত লোককে নিয়ে আসি এবং তোমাদেরকে এমন করে দেই, যা তোমরা জান না।",
+      "english_translation": "In that We will change your likenesses and produce you in that [form] which you do not know.",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 62,
+      "arabic_text": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "bangla_translation": "তোমরা অবগত হয়েছ প্রথম সৃষ্টি সম্পর্কে, তবে তোমরা অনুধাবন কর না কেন?",
+      "english_translation": "And you have already known the first creation, so will you not remember?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 63,
+      "arabic_text": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+      "bangla_translation": "তোমরা যে বীজ বপন কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+      "english_translation": "And have you seen that [seed] which you sow?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 64,
+      "arabic_text": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+      "bangla_translation": "তোমরা তাকে উৎপন্ন কর, না আমি উৎপন্নকারী ?",
+      "english_translation": "Is it you who makes it grow, or are We the grower?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 65,
+      "arabic_text": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "bangla_translation": "আমি ইচ্ছা করলে তাকে খড়কুটা করে দিতে পারি, অতঃপর হয়ে যাবে তোমরা বিস্ময়াবিষ্ট।",
+      "english_translation": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 66,
+      "arabic_text": "إِنَّا لَمُغْرَمُونَ",
+      "bangla_translation": "বলবেঃ আমরা তো ঋণের চাপে পড়ে গেলাম;",
+      "english_translation": "[Saying], \"Indeed, we are [now] in debt;",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 67,
+      "arabic_text": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "bangla_translation": "বরং আমরা হূত সর্বস্ব হয়ে পড়লাম।",
+      "english_translation": "Rather, we have been deprived.\"",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 68,
+      "arabic_text": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+      "bangla_translation": "তোমরা যে পানি পান কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+      "english_translation": "And have you seen the water that you drink?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 69,
+      "arabic_text": "أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ",
+      "bangla_translation": "তোমরা তা মেঘ থেকে নামিয়ে আন, না আমি বর্ষন করি?",
+      "english_translation": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 70,
+      "arabic_text": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "bangla_translation": "আমি ইচ্ছা করলে তাকে লোনা করে দিতে পারি, অতঃপর তোমরা কেন কৃতজ্ঞতা প্রকাশ কর না?",
+      "english_translation": "If We willed, We could make it bitter, so why are you not grateful?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 71,
+      "arabic_text": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+      "bangla_translation": "তোমরা যে অগ্নি প্রজ্জ্বলিত কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+      "english_translation": "And have you seen the fire that you ignite?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 72,
+      "arabic_text": "أَأَنْتُمْ أَنْشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنْشِئُونَ",
+      "bangla_translation": "তোমরা কি এর বৃক্ষ সৃষ্টি করেছ, না আমি সৃষ্টি করেছি ?",
+      "english_translation": "Is it you who produced its tree, or are We the producer?",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 73,
+      "arabic_text": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ",
+      "bangla_translation": "আমি সেই বৃক্ষকে করেছি স্মরণিকা এবং মরুবাসীদের জন্য সামগ্রী।",
+      "english_translation": "We have made it a reminder and provision for the travelers,",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 74,
+      "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "bangla_translation": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+      "english_translation": "So exalt the name of your Lord, the Most Great.",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 75,
+      "arabic_text": "۞ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+      "bangla_translation": "অতএব, আমি তারকারাজির অস্তাচলের শপথ করছি,",
+      "english_translation": "Then I swear by the setting of the stars,",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 76,
+      "arabic_text": "وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ",
+      "bangla_translation": "নিশ্চয় এটা এক মহা শপথ-যদি তোমরা জানতে।",
+      "english_translation": "And indeed, it is an oath - if you could know - [most] great.",
+      "juz_number": 27,
+      "page_number": 536
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 77,
+      "arabic_text": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+      "bangla_translation": "নিশ্চয় এটা সম্মানিত কোরআন,",
+      "english_translation": "Indeed, it is a noble Qur'an",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 78,
+      "arabic_text": "فِي كِتَابٍ مَكْنُونٍ",
+      "bangla_translation": "যা আছে এক গোপন কিতাবে,",
+      "english_translation": "In a Register well-protected;",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 79,
+      "arabic_text": "لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+      "bangla_translation": "যারা পাক-পবিত্র, তারা ব্যতীত অন্য কেউ একে স্পর্শ করবে না।",
+      "english_translation": "None touch it except the purified.",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 80,
+      "arabic_text": "تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ",
+      "bangla_translation": "এটা বিশ্ব-পালনকর্তার পক্ষ থেকে অবতীর্ণ।",
+      "english_translation": "[It is] a revelation from the Lord of the worlds.",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 81,
+      "arabic_text": "أَفَبِهَٰذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ",
+      "bangla_translation": "তবুও কি তোমরা এই বাণীর প্রতি শৈথিল্য পদর্শন করবে?",
+      "english_translation": "Then is it to this statement that you are indifferent",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 82,
+      "arabic_text": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "bangla_translation": "এবং একে মিথ্যা বলাকেই তোমরা তোমাদের ভূমিকায় পরিণত করবে?",
+      "english_translation": "And make [the thanks for] your provision that you deny [the Provider]?",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 83,
+      "arabic_text": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+      "bangla_translation": "অতঃপর যখন কারও প্রাণ কন্ঠাগত হয়।",
+      "english_translation": "Then why, when the soul at death reaches the throat",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 84,
+      "arabic_text": "وَأَنْتُمْ حِينَئِذٍ تَنْظُرُونَ",
+      "bangla_translation": "এবং তোমরা তাকিয়ে থাক,",
+      "english_translation": "And you are at that time looking on -",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 85,
+      "arabic_text": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ",
+      "bangla_translation": "তখন আমি তোমাদের অপেক্ষা তার অধিক নিকটে থাকি; কিন্তু তোমরা দেখ না।",
+      "english_translation": "And Our angels are nearer to him than you, but you do not see -",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 86,
+      "arabic_text": "فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ",
+      "bangla_translation": "যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়,",
+      "english_translation": "Then why do you not, if you are not to be recompensed,",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 87,
+      "arabic_text": "تَرْجِعُونَهَا إِنْ كُنْتُمْ صَادِقِينَ",
+      "bangla_translation": "তবে তোমরা এই আত্মাকে ফিরাও না কেন, যদি তোমরা সত্যবাদী হও ?",
+      "english_translation": "Bring it back, if you should be truthful?",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 88,
+      "arabic_text": "فَأَمَّا إِنْ كَانَ مِنَ الْمُقَرَّبِينَ",
+      "bangla_translation": "যদি সে নৈকট্যশীলদের একজন হয়;",
+      "english_translation": "And if the deceased was of those brought near to Allah,",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 89,
+      "arabic_text": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "bangla_translation": "তবে তার জন্যে আছে সুখ, উত্তম রিযিক এবং নেয়ামতে ভরা উদ্যান।",
+      "english_translation": "Then [for him is] rest and bounty and a garden of pleasure.",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 90,
+      "arabic_text": "وَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "bangla_translation": "আর যদি সে ডান পার্শ্বস্থদের একজন হয়,",
+      "english_translation": "And if he was of the companions of the right,",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 91,
+      "arabic_text": "فَسَلَامٌ لَكَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "bangla_translation": "তবে তাকে বলা হবেঃ তোমার জন্যে ডানপার্শ্বসস্থদের পক্ষ থেকে সালাম।",
+      "english_translation": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 92,
+      "arabic_text": "وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+      "bangla_translation": "আর যদি সে পথভ্রষ্ট মিথ্যারোপকারীদের একজন হয়,",
+      "english_translation": "But if he was of the deniers [who were] astray,",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 93,
+      "arabic_text": "فَنُزُلٌ مِنْ حَمِيمٍ",
+      "bangla_translation": "তবে তার আপ্যায়ন হবে উত্তপ্ত পানি দ্বারা।",
+      "english_translation": "Then [for him is] accommodation of scalding water",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 94,
+      "arabic_text": "وَتَصْلِيَةُ جَحِيمٍ",
+      "bangla_translation": "এবং সে নিক্ষিপ্ত হবে অগ্নিতে।",
+      "english_translation": "And burning in Hellfire",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 95,
+      "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+      "bangla_translation": "এটা ধ্রুব সত্য।",
+      "english_translation": "Indeed, this is the true certainty,",
+      "juz_number": 27,
+      "page_number": 537
+    },
+    {
+      "surah_number": 56,
+      "ayah_number": 96,
+      "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "bangla_translation": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+      "english_translation": "So exalt the name of your Lord, the Most Great.",
+      "juz_number": 27,
+      "page_number": 537
+    }
+  ]
+}

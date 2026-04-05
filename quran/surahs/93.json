@@ -1,0 +1,113 @@
+{
+  "surah": {
+    "number": 93,
+    "name_arabic": "سُورَةُ الضُّحَىٰ",
+    "name_bangla": "আদ-দুহা",
+    "name_english": "Ad-Dhuhaa",
+    "name_meaning": "The Morning Hours",
+    "ayah_count": 11,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 93,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالضُّحَىٰ",
+      "bangla_translation": "শপথ পূর্বাহ্নের,",
+      "english_translation": "By the morning brightness",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 2,
+      "arabic_text": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "bangla_translation": "শপথ রাত্রির যখন তা গভীর হয়,",
+      "english_translation": "And [by] the night when it covers with darkness,",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 3,
+      "arabic_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "bangla_translation": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।",
+      "english_translation": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 4,
+      "arabic_text": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+      "bangla_translation": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।",
+      "english_translation": "And the Hereafter is better for you than the first [life].",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 5,
+      "arabic_text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "bangla_translation": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।",
+      "english_translation": "And your Lord is going to give you, and you will be satisfied.",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 6,
+      "arabic_text": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "bangla_translation": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+      "english_translation": "Did He not find you an orphan and give [you] refuge?",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 7,
+      "arabic_text": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "bangla_translation": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।",
+      "english_translation": "And He found you lost and guided [you],",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 8,
+      "arabic_text": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "bangla_translation": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।",
+      "english_translation": "And He found you poor and made [you] self-sufficient.",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 9,
+      "arabic_text": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "bangla_translation": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;",
+      "english_translation": "So as for the orphan, do not oppress [him].",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 10,
+      "arabic_text": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "bangla_translation": "সওয়ালকারীকে ধমক দেবেন না।",
+      "english_translation": "And as for the petitioner, do not repel [him].",
+      "juz_number": 30,
+      "page_number": 596
+    },
+    {
+      "surah_number": 93,
+      "ayah_number": 11,
+      "arabic_text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "bangla_translation": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।",
+      "english_translation": "But as for the favor of your Lord, report [it].",
+      "juz_number": 30,
+      "page_number": 596
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "surah": {
+    "number": 83,
+    "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+    "name_bangla": "আল-মুতাফফিফীন",
+    "name_english": "Al-Mutaffifin",
+    "name_meaning": "Defrauding",
+    "ayah_count": 36,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 83,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِلْمُطَفِّفِينَ",
+      "bangla_translation": "যারা মাপে কম করে, তাদের জন্যে দুর্ভোগ,",
+      "english_translation": "Woe to those who give less [than due],",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 2,
+      "arabic_text": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+      "bangla_translation": "যারা লোকের কাছ থেকে যখন মেপে নেয়, তখন পূর্ণ মাত্রায় নেয়",
+      "english_translation": "Who, when they take a measure from people, take in full.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 3,
+      "arabic_text": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+      "bangla_translation": "এবং যখন লোকদেরকে মেপে দেয় কিংবা ওজন করে দেয়, তখন কম করে দেয়।",
+      "english_translation": "But if they give by measure or by weight to them, they cause loss.",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 4,
+      "arabic_text": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+      "bangla_translation": "তারা কি চিন্তা করে না যে, তারা পুনরুত্থিত হবে।",
+      "english_translation": "Do they not think that they will be resurrected",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 5,
+      "arabic_text": "لِيَوْمٍ عَظِيمٍ",
+      "bangla_translation": "সেই মহাদিবসে,",
+      "english_translation": "For a tremendous Day -",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 6,
+      "arabic_text": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+      "bangla_translation": "যেদিন মানুষ দাঁড়াবে বিশ্ব পালনকর্তার সামনে।",
+      "english_translation": "The Day when mankind will stand before the Lord of the worlds?",
+      "juz_number": 30,
+      "page_number": 587
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 7,
+      "arabic_text": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+      "bangla_translation": "এটা কিছুতেই উচিত নয়, নিশ্চয় পাপাচারীদের আমলনামা সিজ্জীনে আছে।",
+      "english_translation": "No! Indeed, the record of the wicked is in sijjeen.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 8,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+      "bangla_translation": "আপনি জানেন, সিজ্জীন কি?",
+      "english_translation": "And what can make you know what is sijjeen?",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 9,
+      "arabic_text": "كِتَابٌ مَرْقُومٌ",
+      "bangla_translation": "এটা লিপিবদ্ধ খাতা।",
+      "english_translation": "It is [their destination recorded in] a register inscribed.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 10,
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "bangla_translation": "সেদিন দুর্ভোগ মিথ্যারোপকারীদের,",
+      "english_translation": "Woe, that Day, to the deniers,",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 11,
+      "arabic_text": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+      "bangla_translation": "যারা প্রতিফল দিবসকে মিথ্যারোপ করে।",
+      "english_translation": "Who deny the Day of Recompense.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 12,
+      "arabic_text": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "bangla_translation": "প্রত্যেক সীমালংঘনকারী পাপিষ্ঠই কেবল একে মিথ্যারোপ করে।",
+      "english_translation": "And none deny it except every sinful transgressor.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 13,
+      "arabic_text": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "bangla_translation": "তার কাছে আমার আয়াতসমূহ পাঠ করা হলে সে বলে, পুরাকালের উপকথা।",
+      "english_translation": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 14,
+      "arabic_text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+      "bangla_translation": "কখনও না, বরং তারা যা করে, তাই তাদের হৃদয় মরিচা ধরিয়ে দিয়েছে।",
+      "english_translation": "No! Rather, the stain has covered their hearts of that which they were earning.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 15,
+      "arabic_text": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ",
+      "bangla_translation": "কখনও না, তারা সেদিন তাদের পালনকর্তার থেকে পর্দার অন্তরালে থাকবে।",
+      "english_translation": "No! Indeed, from their Lord, that Day, they will be partitioned.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 16,
+      "arabic_text": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+      "bangla_translation": "অতঃপর তারা জাহান্নামে প্রবেশ করবে।",
+      "english_translation": "Then indeed, they will [enter and] burn in Hellfire.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 17,
+      "arabic_text": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "bangla_translation": "এরপর বলা হবে, একেই তো তোমরা মিথ্যারোপ করতে।",
+      "english_translation": "Then it will be said [to them], \"This is what you used to deny.\"",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 18,
+      "arabic_text": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+      "bangla_translation": "কখনও না, নিশ্চয় সৎলোকদের আমলনামা আছে ইল্লিয়্যীনে।",
+      "english_translation": "No! Indeed, the record of the righteous is in 'illiyyun.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 19,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+      "bangla_translation": "আপনি জানেন ইল্লিয়্যীন কি?",
+      "english_translation": "And what can make you know what is 'illiyyun?",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 20,
+      "arabic_text": "كِتَابٌ مَرْقُومٌ",
+      "bangla_translation": "এটা লিপিবদ্ধ খাতা।",
+      "english_translation": "It is [their destination recorded in] a register inscribed",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 21,
+      "arabic_text": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+      "bangla_translation": "আল্লাহর নৈকট্যপ্রাপ্ত ফেরেশতাগণ একে প্রত্যক্ষ করে।",
+      "english_translation": "Which is witnessed by those brought near [to Allah].",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 22,
+      "arabic_text": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "bangla_translation": "নিশ্চয় সৎলোকগণ থাকবে পরম আরামে,",
+      "english_translation": "Indeed, the righteous will be in pleasure",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 23,
+      "arabic_text": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "bangla_translation": "সিংহাসনে বসে অবলোকন করবে।",
+      "english_translation": "On adorned couches, observing.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 24,
+      "arabic_text": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+      "bangla_translation": "আপনি তাদের মুখমন্ডলে স্বাচ্ছন্দ্যের সজীবতা দেখতে পাবেন।",
+      "english_translation": "You will recognize in their faces the radiance of pleasure.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 25,
+      "arabic_text": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ",
+      "bangla_translation": "তাদেরকে মোহর করা বিশুদ্ধ পানীয় পান করানো হবে।",
+      "english_translation": "They will be given to drink [pure] wine [which was] sealed.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 26,
+      "arabic_text": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+      "bangla_translation": "তার মোহর হবে কস্তুরী। এ বিষয়ে প্রতিযোগীদের প্রতিযোগিতা করা উচিত।",
+      "english_translation": "The last of it is musk. So for this let the competitors compete.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 27,
+      "arabic_text": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ",
+      "bangla_translation": "তার মিশ্রণ হবে তসনীমের পানি।",
+      "english_translation": "And its mixture is of Tasneem,",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 28,
+      "arabic_text": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+      "bangla_translation": "এটা একটা ঝরণা, যার পানি পান করবে নৈকট্যশীলগণ।",
+      "english_translation": "A spring from which those near [to Allah] drink.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 29,
+      "arabic_text": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+      "bangla_translation": "যারা অপরাধী, তারা বিশ্বাসীদেরকে উপহাস করত।",
+      "english_translation": "Indeed, those who committed crimes used to laugh at those who believed.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 30,
+      "arabic_text": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+      "bangla_translation": "এবং তারা যখন তাদের কাছ দিয়ে গমন করত তখন পরস্পরে চোখ টিপে ইশারা করত।",
+      "english_translation": "And when they passed by them, they would exchange derisive glances.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 31,
+      "arabic_text": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+      "bangla_translation": "তারা যখন তাদের পরিবার-পরিজনের কাছে ফিরত, তখনও হাসাহাসি করে ফিরত।",
+      "english_translation": "And when they returned to their people, they would return jesting.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 32,
+      "arabic_text": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+      "bangla_translation": "আর যখন তারা বিশ্বাসীদেরকে দেখত, তখন বলত, নিশ্চয় এরা বিভ্রান্ত।",
+      "english_translation": "And when they saw them, they would say, \"Indeed, those are truly lost.\"",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 33,
+      "arabic_text": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+      "bangla_translation": "অথচ তারা বিশ্বাসীদের তত্ত্বাবধায়করূপে প্রেরিত হয়নি।",
+      "english_translation": "But they had not been sent as guardians over them.",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 34,
+      "arabic_text": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+      "bangla_translation": "আজ যারা বিশ্বাসী, তারা কাফেরদেরকে উপহাস করছে।",
+      "english_translation": "So Today those who believed are laughing at the disbelievers,",
+      "juz_number": 30,
+      "page_number": 588
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 35,
+      "arabic_text": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "bangla_translation": "সিংহাসনে বসে, তাদেরকে অবলোকন করছে,",
+      "english_translation": "On adorned couches, observing.",
+      "juz_number": 30,
+      "page_number": 589
+    },
+    {
+      "surah_number": 83,
+      "ayah_number": 36,
+      "arabic_text": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+      "bangla_translation": "কাফেররা যা করত, তার প্রতিফল পেয়েছে তো?",
+      "english_translation": "Have the disbelievers [not] been rewarded [this Day] for what they used to do?",
+      "juz_number": 30,
+      "page_number": 589
+    }
+  ]
+}

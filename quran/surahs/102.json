@@ -1,0 +1,86 @@
+{
+  "surah": {
+    "number": 102,
+    "name_arabic": "سُورَةُ التَّكَاثُرِ",
+    "name_bangla": "আত-তাকাসুর",
+    "name_english": "At-Takaathur",
+    "name_meaning": "Competition",
+    "ayah_count": 8,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 102,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلْهَاكُمُ التَّكَاثُرُ",
+      "bangla_translation": "প্রাচুর্যের লালসা তোমাদেরকে গাফেল রাখে,",
+      "english_translation": "Competition in [worldly] increase diverts you",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 2,
+      "arabic_text": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+      "bangla_translation": "এমনকি, তোমরা কবরস্থানে পৌছে যাও।",
+      "english_translation": "Until you visit the graveyards.",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 3,
+      "arabic_text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "bangla_translation": "এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+      "english_translation": "No! You are going to know.",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 4,
+      "arabic_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "bangla_translation": "অতঃপর এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+      "english_translation": "Then no! You are going to know.",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 5,
+      "arabic_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+      "bangla_translation": "কখনই নয়; যদি তোমরা নিশ্চিত জানতে।",
+      "english_translation": "No! If you only knew with knowledge of certainty...",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 6,
+      "arabic_text": "لَتَرَوُنَّ الْجَحِيمَ",
+      "bangla_translation": "তোমরা অবশ্যই জাহান্নাম দেখবে,",
+      "english_translation": "You will surely see the Hellfire.",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 7,
+      "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+      "bangla_translation": "অতঃপর তোমরা তা অবশ্যই দেখবে দিব্য প্রত্যয়ে,",
+      "english_translation": "Then you will surely see it with the eye of certainty.",
+      "juz_number": 30,
+      "page_number": 600
+    },
+    {
+      "surah_number": 102,
+      "ayah_number": 8,
+      "arabic_text": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+      "bangla_translation": "এরপর অবশ্যই সেদিন তোমরা নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে।",
+      "english_translation": "Then you will surely be asked that Day about pleasure.",
+      "juz_number": 30,
+      "page_number": 600
+    }
+  ]
+}

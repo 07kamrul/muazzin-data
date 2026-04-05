@@ -1,0 +1,212 @@
+{
+  "surah": {
+    "number": 85,
+    "name_arabic": "سُورَةُ البُرُوجِ",
+    "name_bangla": "আল-বুরুজ",
+    "name_english": "Al-Burooj",
+    "name_meaning": "The Constellations",
+    "ayah_count": 22,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 85,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+      "bangla_translation": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের,",
+      "english_translation": "By the sky containing great stars",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 2,
+      "arabic_text": "وَالْيَوْمِ الْمَوْعُودِ",
+      "bangla_translation": "এবং প্রতিশ্রুত দিবসের,",
+      "english_translation": "And [by] the promised Day",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 3,
+      "arabic_text": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "bangla_translation": "এবং সেই দিবসের, যে উপস্থিত হয় ও যাতে উপস্থিত হয়",
+      "english_translation": "And [by] the witness and what is witnessed,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 4,
+      "arabic_text": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+      "bangla_translation": "অভিশপ্ত হয়েছে গর্ত ওয়ালারা অর্থাৎ,",
+      "english_translation": "Cursed were the companions of the trench",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 5,
+      "arabic_text": "النَّارِ ذَاتِ الْوَقُودِ",
+      "bangla_translation": "অনেক ইন্ধনের অগ্নিসংযোগকারীরা;",
+      "english_translation": "[Containing] the fire full of fuel,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 6,
+      "arabic_text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "bangla_translation": "যখন তারা তার কিনারায় বসেছিল।",
+      "english_translation": "When they were sitting near it",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 7,
+      "arabic_text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+      "bangla_translation": "এবং তারা বিশ্বাসীদের সাথে যা করেছিল, তা নিরীক্ষণ করছিল।",
+      "english_translation": "And they, to what they were doing against the believers, were witnesses.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 8,
+      "arabic_text": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+      "bangla_translation": "তারা তাদেরকে শাস্তি দিয়েছিল শুধু এ কারণে যে, তারা প্রশংসিত, পরাক্রান্ত আল্লাহর প্রতি বিশ্বাস স্থাপন করেছিল,",
+      "english_translation": "And they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 9,
+      "arabic_text": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "bangla_translation": "যিনি নভোমন্ডল ও ভূমন্ডলের ক্ষমতার মালিক, আল্লাহর সামনে রয়েছে সবকিছু।",
+      "english_translation": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 10,
+      "arabic_text": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+      "bangla_translation": "যারা মুমিন পুরুষ ও নারীকে নিপীড়ন করেছে, অতঃপর তওবা করেনি, তাদের জন্যে আছে জাহান্নামের শাস্তি, আর আছে দহন যন্ত্রণা,",
+      "english_translation": "Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 11,
+      "arabic_text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+      "bangla_translation": "যারা ঈমান আনে ও সৎকর্ম করে তাদের জন্যে আছে জান্নাত, যার তলদেশে প্রবাহিত হয় নির্ঝরিণীসমূহ। এটাই মহাসাফল্য।",
+      "english_translation": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 12,
+      "arabic_text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "bangla_translation": "নিশ্চয় তোমার পালনকর্তার পাকড়াও অত্যন্ত কঠিন।",
+      "english_translation": "Indeed, the vengeance of your Lord is severe.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 13,
+      "arabic_text": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "bangla_translation": "তিনিই প্রথমবার অস্তিত্ব দান করেন এবং পুনরায় জীবিত করেন।",
+      "english_translation": "Indeed, it is He who originates [creation] and repeats.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 14,
+      "arabic_text": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+      "bangla_translation": "তিনি ক্ষমাশীল, প্রেমময়;",
+      "english_translation": "And He is the Forgiving, the Affectionate,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 15,
+      "arabic_text": "ذُو الْعَرْشِ الْمَجِيدُ",
+      "bangla_translation": "মহান আরশের অধিকারী।",
+      "english_translation": "Honorable Owner of the Throne,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 16,
+      "arabic_text": "فَعَّالٌ لِمَا يُرِيدُ",
+      "bangla_translation": "তিনি যা চান, তাই করেন।",
+      "english_translation": "Effecter of what He intends.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 17,
+      "arabic_text": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+      "bangla_translation": "আপনার কাছে সৈন্যবাহিনীর ইতিবৃত্ত পৌছেছে কি?",
+      "english_translation": "Has there reached you the story of the soldiers -",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 18,
+      "arabic_text": "فِرْعَوْنَ وَثَمُودَ",
+      "bangla_translation": "ফেরাউনের এবং সামুদের?",
+      "english_translation": "[Those of] Pharaoh and Thamud?",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 19,
+      "arabic_text": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+      "bangla_translation": "বরং যারা কাফের, তারা মিথ্যারোপে রত আছে।",
+      "english_translation": "But they who disbelieve are in [persistent] denial,",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 20,
+      "arabic_text": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+      "bangla_translation": "আল্লাহ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রেখেছেন।",
+      "english_translation": "While Allah encompasses them from behind.",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 21,
+      "arabic_text": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+      "bangla_translation": "বরং এটা মহান কোরআন,",
+      "english_translation": "But this is an honored Qur'an",
+      "juz_number": 30,
+      "page_number": 590
+    },
+    {
+      "surah_number": 85,
+      "ayah_number": 22,
+      "arabic_text": "فِي لَوْحٍ مَحْفُوظٍ",
+      "bangla_translation": "লওহে মাহফুযে লিপিবদ্ধ।",
+      "english_translation": "[Inscribed] in a Preserved Slate.",
+      "juz_number": 30,
+      "page_number": 590
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "surah": {
+    "number": 75,
+    "name_arabic": "سُورَةُ القِيَامَةِ",
+    "name_bangla": "আল-কিয়ামাহ",
+    "name_english": "Al-Qiyaama",
+    "name_meaning": "The Resurrection",
+    "ayah_count": 40,
+    "juz_start": 29,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 75,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+      "bangla_translation": "আমি শপথ করি কেয়ামত দিবসের,",
+      "english_translation": "I swear by the Day of Resurrection",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 2,
+      "arabic_text": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+      "bangla_translation": "আরও শপথ করি সেই মনের, যে নিজেকে ধিক্কার দেয়-",
+      "english_translation": "And I swear by the reproaching soul [to the certainty of resurrection].",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 3,
+      "arabic_text": "أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ",
+      "bangla_translation": "মানুষ কি মনে করে যে আমি তার অস্থিসমূহ একত্রিত করব না?",
+      "english_translation": "Does man think that We will not assemble his bones?",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 4,
+      "arabic_text": "بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ",
+      "bangla_translation": "পরন্ত আমি তার অংগুলিগুলো পর্যন্ত সঠিকভাবে সন্নিবেশিত করতে সক্ষম।",
+      "english_translation": "Yes. [We are] Able [even] to proportion his fingertips.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 5,
+      "arabic_text": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+      "bangla_translation": "বরং মানুষ তার ভবিষ্যত জীবনেও ধৃষ্টতা করতে চায়",
+      "english_translation": "But man desires to continue in sin.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 6,
+      "arabic_text": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+      "bangla_translation": "সে প্রশ্ন করে-কেয়ামত দিবস কবে?",
+      "english_translation": "He asks, \"When is the Day of Resurrection?\"",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 7,
+      "arabic_text": "فَإِذَا بَرِقَ الْبَصَرُ",
+      "bangla_translation": "যখন দৃষ্টি চমকে যাবে,",
+      "english_translation": "So when vision is dazzled",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 8,
+      "arabic_text": "وَخَسَفَ الْقَمَرُ",
+      "bangla_translation": "চন্দ্র জ্যোতিহীন হয়ে যাবে।",
+      "english_translation": "And the moon darkens",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 9,
+      "arabic_text": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+      "bangla_translation": "এবং সূর্য ও চন্দ্রকে একত্রিত করা হবে-",
+      "english_translation": "And the sun and the moon are joined,",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 10,
+      "arabic_text": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+      "bangla_translation": "সে দিন মানুষ বলবেঃ পলায়নের জায়গা কোথায় ?",
+      "english_translation": "Man will say on that Day, \"Where is the [place of] escape?\"",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 11,
+      "arabic_text": "كَلَّا لَا وَزَرَ",
+      "bangla_translation": "না কোথাও আশ্রয়স্থল নেই।",
+      "english_translation": "No! There is no refuge.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 12,
+      "arabic_text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+      "bangla_translation": "আপনার পালনকর্তার কাছেই সেদিন ঠাঁই হবে।",
+      "english_translation": "To your Lord, that Day, is the [place of] permanence.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 13,
+      "arabic_text": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+      "bangla_translation": "সেদিন মানুষকে অবহিত করা হবে সে যা সামনে প্রেরণ করেছে ও পশ্চাতে ছেড়ে দিয়েছে।",
+      "english_translation": "Man will be informed that Day of what he sent ahead and kept back.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 14,
+      "arabic_text": "بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ",
+      "bangla_translation": "বরং মানুষ নিজেই তার নিজের সম্পর্কে চক্ষুমান।",
+      "english_translation": "Rather, man, against himself, will be a witness,",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 15,
+      "arabic_text": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ",
+      "bangla_translation": "যদিও সে তার অজুহাত পেশ করতে চাইবে।",
+      "english_translation": "Even if he presents his excuses.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 16,
+      "arabic_text": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+      "bangla_translation": "তাড়াতাড়ি শিখে নেয়ার জন্যে আপনি দ্রুত ওহী আবৃত্তি করবেন না।",
+      "english_translation": "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 17,
+      "arabic_text": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+      "bangla_translation": "এর সংরক্ষণ ও পাঠ আমারই দায়িত্ব।",
+      "english_translation": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 18,
+      "arabic_text": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+      "bangla_translation": "অতঃপর আমি যখন তা পাঠ করি, তখন আপনি সেই পাঠের অনুসরণ করুন।",
+      "english_translation": "So when We have recited it [through Gabriel], then follow its recitation.",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 19,
+      "arabic_text": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+      "bangla_translation": "এরপর বিশদ বর্ণনা আমারই দায়িত্ব।",
+      "english_translation": "Then upon Us is its clarification [to you].",
+      "juz_number": 29,
+      "page_number": 577
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 20,
+      "arabic_text": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+      "bangla_translation": "কখনও না, বরং তোমরা পার্থিব জীবনকে ভালবাস",
+      "english_translation": "No! But you love the immediate",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 21,
+      "arabic_text": "وَتَذَرُونَ الْآخِرَةَ",
+      "bangla_translation": "এবং পরকালকে উপেক্ষা কর।",
+      "english_translation": "And leave the Hereafter.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 22,
+      "arabic_text": "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ",
+      "bangla_translation": "সেদিন অনেক মুখমন্ডল উজ্জ্বল হবে।",
+      "english_translation": "[Some] faces, that Day, will be radiant,",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 23,
+      "arabic_text": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "bangla_translation": "তারা তার পালনকর্তার দিকে তাকিয়ে থাকবে।",
+      "english_translation": "Looking at their Lord.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 24,
+      "arabic_text": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+      "bangla_translation": "আর অনেক মুখমন্ডল সেদিন উদাস হয়ে পড়বে।",
+      "english_translation": "And [some] faces, that Day, will be contorted,",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 25,
+      "arabic_text": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "bangla_translation": "তারা ধারণা করবে যে, তাদের সাথে কোমর-ভাঙ্গা আচরণ করা হবে।",
+      "english_translation": "Expecting that there will be done to them [something] backbreaking.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 26,
+      "arabic_text": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+      "bangla_translation": "কখনও না, যখন প্রাণ কন্ঠাগত হবে।",
+      "english_translation": "No! When the soul has reached the collar bones",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 27,
+      "arabic_text": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "bangla_translation": "এবং বলা হবে, কে ঝাড়বে",
+      "english_translation": "And it is said, \"Who will cure [him]?\"",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 28,
+      "arabic_text": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+      "bangla_translation": "এবং সে মনে করবে যে, বিদায়ের ক্ষণ এসে গেছে।",
+      "english_translation": "And the dying one is certain that it is the [time of] separation",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 29,
+      "arabic_text": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+      "bangla_translation": "এবং গোছা গোছার সাথে জড়িত হয়ে যাবে।",
+      "english_translation": "And the leg is wound about the leg,",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 30,
+      "arabic_text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+      "bangla_translation": "সেদিন, আপনার পালনকর্তার নিকট সবকিছু নীত হবে।",
+      "english_translation": "To your Lord, that Day, will be the procession.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 31,
+      "arabic_text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "bangla_translation": "সে বিশ্বাস করেনি এবং নামায পড়েনি;",
+      "english_translation": "And the disbeliever had not believed, nor had he prayed.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 32,
+      "arabic_text": "وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "bangla_translation": "পরন্ত মিথ্যারোপ করেছে ও পৃষ্ঠ প্রদর্শন করেছে।",
+      "english_translation": "But [instead], he denied and turned away.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 33,
+      "arabic_text": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ",
+      "bangla_translation": "অতঃপর সে দম্ভভরে পরিবার-পরিজনের নিকট ফিরে গিয়েছে।",
+      "english_translation": "And then he went to his people, swaggering [in pride].",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 34,
+      "arabic_text": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "bangla_translation": "তোমার দুর্ভোগের উপর দুর্ভোগ।",
+      "english_translation": "Woe to you, and woe!",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 35,
+      "arabic_text": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "bangla_translation": "অতঃপর, তোমার দুর্ভোগের উপর দূর্ভোগ।",
+      "english_translation": "Then woe to you, and woe!",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 36,
+      "arabic_text": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+      "bangla_translation": "মানুষ কি মনে করে যে, তাকে এমনি ছেড়ে দেয়া হবে?",
+      "english_translation": "Does man think that he will be left neglected?",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 37,
+      "arabic_text": "أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ",
+      "bangla_translation": "সে কি স্খলিত বীর্য ছিল না?",
+      "english_translation": "Had he not been a sperm from semen emitted?",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 38,
+      "arabic_text": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "bangla_translation": "অতঃপর সে ছিল রক্তপিন্ড, অতঃপর আল্লাহ তাকে সৃষ্টি করেছেন এবং সুবিন্যস্ত করেছেন।",
+      "english_translation": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 39,
+      "arabic_text": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+      "bangla_translation": "অতঃপর তা থেকে সৃষ্টি করেছেন যুগল নর ও নারী।",
+      "english_translation": "And made of him two mates, the male and the female.",
+      "juz_number": 29,
+      "page_number": 578
+    },
+    {
+      "surah_number": 75,
+      "ayah_number": 40,
+      "arabic_text": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ",
+      "bangla_translation": "তবুও কি সেই আল্লাহ মৃতদেরকে জীবিত করতে সক্ষম নন?",
+      "english_translation": "Is not that [Creator] Able to give life to the dead?",
+      "juz_number": 29,
+      "page_number": 578
+    }
+  ]
+}

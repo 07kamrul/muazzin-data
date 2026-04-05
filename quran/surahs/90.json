@@ -1,0 +1,194 @@
+{
+  "surah": {
+    "number": 90,
+    "name_arabic": "سُورَةُ البَلَدِ",
+    "name_bangla": "আল-বালাদ",
+    "name_english": "Al-Balad",
+    "name_meaning": "The City",
+    "ayah_count": 20,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 90,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "bangla_translation": "আমি এই নগরীর শপথ করি",
+      "english_translation": "I swear by this city, Makkah -",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 2,
+      "arabic_text": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+      "bangla_translation": "এবং এই নগরীতে আপনার উপর কোন প্রতিবন্ধকতা নেই।",
+      "english_translation": "And you, [O Muhammad], are free of restriction in this city -",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 3,
+      "arabic_text": "وَوَالِدٍ وَمَا وَلَدَ",
+      "bangla_translation": "শপথ জনকের ও যা জন্ম দেয়।",
+      "english_translation": "And [by] the father and that which was born [of him],",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 4,
+      "arabic_text": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+      "bangla_translation": "নিশ্চয় আমি মানুষকে শ্রমনির্ভররূপে সৃষ্টি করেছি।",
+      "english_translation": "We have certainly created man into hardship.",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 5,
+      "arabic_text": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "bangla_translation": "সে কি মনে করে যে, তার উপর কেউ ক্ষমতাবান হবে না ?",
+      "english_translation": "Does he think that never will anyone overcome him?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 6,
+      "arabic_text": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+      "bangla_translation": "সে বলেঃ আমি প্রচুর ধন-সম্পদ ব্যয় করেছি।",
+      "english_translation": "He says, \"I have spent wealth in abundance.\"",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 7,
+      "arabic_text": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+      "bangla_translation": "সে কি মনে করে যে, তাকে কেউ দেখেনি?",
+      "english_translation": "Does he think that no one has seen him?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 8,
+      "arabic_text": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+      "bangla_translation": "আমি কি তাকে দেইনি চক্ষুদ্বয়,",
+      "english_translation": "Have We not made for him two eyes?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 9,
+      "arabic_text": "وَلِسَانًا وَشَفَتَيْنِ",
+      "bangla_translation": "জিহবা ও ওষ্ঠদ্বয় ?",
+      "english_translation": "And a tongue and two lips?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 10,
+      "arabic_text": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+      "bangla_translation": "বস্তুতঃ আমি তাকে দু’টি পথ প্রদর্শন করেছি।",
+      "english_translation": "And have shown him the two ways?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 11,
+      "arabic_text": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "bangla_translation": "অতঃপর সে ধর্মের ঘাঁটিতে প্রবেশ করেনি।",
+      "english_translation": "But he has not broken through the difficult pass.",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 12,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "bangla_translation": "আপনি জানেন, সে ঘাঁটি কি?",
+      "english_translation": "And what can make you know what is [breaking through] the difficult pass?",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 13,
+      "arabic_text": "فَكُّ رَقَبَةٍ",
+      "bangla_translation": "তা হচ্ছে দাসমুক্তি",
+      "english_translation": "It is the freeing of a slave",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 14,
+      "arabic_text": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+      "bangla_translation": "অথবা দুর্ভিক্ষের দিনে অন্নদান।",
+      "english_translation": "Or feeding on a day of severe hunger",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 15,
+      "arabic_text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "bangla_translation": "এতীম আত্বীয়কে",
+      "english_translation": "An orphan of near relationship",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 16,
+      "arabic_text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "bangla_translation": "অথবা ধুলি-ধুসরিত মিসকীনকে",
+      "english_translation": "Or a needy person in misery",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 17,
+      "arabic_text": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "bangla_translation": "অতঃপর তাদের অন্তর্ভুক্ত হওয়া, যারা ঈমান আনে এবং পরস্পরকে উপদেশ দেয় সবরের ও উপদেশ দেয় দয়ার।",
+      "english_translation": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 18,
+      "arabic_text": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+      "bangla_translation": "তারাই সৌভাগ্যশালী।",
+      "english_translation": "Those are the companions of the right.",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 19,
+      "arabic_text": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+      "bangla_translation": "আর যারা আমার আয়াতসমূহ অস্বীকার করে তারাই হতভাগা।",
+      "english_translation": "But they who disbelieved in Our signs - those are the companions of the left.",
+      "juz_number": 30,
+      "page_number": 594
+    },
+    {
+      "surah_number": 90,
+      "ayah_number": 20,
+      "arabic_text": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+      "bangla_translation": "তারা অগ্নিপরিবেষ্টিত অবস্থায় বন্দী থাকবে।",
+      "english_translation": "Over them will be fire closed in.",
+      "juz_number": 30,
+      "page_number": 594
+    }
+  ]
+}

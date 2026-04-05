@@ -1,0 +1,185 @@
+{
+  "surah": {
+    "number": 87,
+    "name_arabic": "سُورَةُ الأَعۡلَىٰ",
+    "name_bangla": "আল-আলা",
+    "name_english": "Al-A'laa",
+    "name_meaning": "The Most High",
+    "ayah_count": 19,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 87,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+      "bangla_translation": "আপনি আপনার মহান পালনকর্তার নামের পবিত্রতা বর্ণনা করুন",
+      "english_translation": "Exalt the name of your Lord, the Most High,",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 2,
+      "arabic_text": "الَّذِي خَلَقَ فَسَوَّىٰ",
+      "bangla_translation": "যিনি সৃষ্টি করেছেন ও সুবিন্যস্ত করেছেন।",
+      "english_translation": "Who created and proportioned",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 3,
+      "arabic_text": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+      "bangla_translation": "এবং যিনি সুপরিমিত করেছেন ও পথ প্রদর্শন করেছেন",
+      "english_translation": "And who destined and [then] guided",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 4,
+      "arabic_text": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+      "bangla_translation": "এবং যিনি তৃণাদি উৎপন্ন করেছেন,",
+      "english_translation": "And who brings out the pasture",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 5,
+      "arabic_text": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+      "bangla_translation": "অতঃপর করেছেন তাকে কাল আবর্জনা।",
+      "english_translation": "And [then] makes it black stubble.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 6,
+      "arabic_text": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
+      "bangla_translation": "আমি আপনাকে পাঠ করাতে থাকব, ফলে আপনি বিস্মৃত হবেন না",
+      "english_translation": "We will make you recite, [O Muhammad], and you will not forget,",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 7,
+      "arabic_text": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+      "bangla_translation": "আল্লাহ যা ইচ্ছা করেন তা ব্যতীত। নিশ্চয় তিনি জানেন প্রকাশ্য ও গোপন বিষয়।",
+      "english_translation": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 8,
+      "arabic_text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "bangla_translation": "আমি আপনার জন্যে সহজ শরীয়ত সহজতর করে দেবো।",
+      "english_translation": "And We will ease you toward ease.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 9,
+      "arabic_text": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
+      "bangla_translation": "উপদেশ ফলপ্রসূ হলে উপদেশ দান করুন,",
+      "english_translation": "So remind, if the reminder should benefit;",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 10,
+      "arabic_text": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
+      "bangla_translation": "যে ভয় করে, সে উপদেশ গ্রহণ করবে,",
+      "english_translation": "He who fears [Allah] will be reminded.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 11,
+      "arabic_text": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+      "bangla_translation": "আর যে, হতভাগা, সে তা উপেক্ষা করবে,",
+      "english_translation": "But the wretched one will avoid it -",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 12,
+      "arabic_text": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+      "bangla_translation": "সে মহা-অগ্নিতে প্রবেশ করবে।",
+      "english_translation": "[He] who will [enter and] burn in the greatest Fire,",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 13,
+      "arabic_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "bangla_translation": "অতঃপর সেখানে সে মরবেও না, জীবিতও থাকবে না।",
+      "english_translation": "Neither dying therein nor living.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 14,
+      "arabic_text": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+      "bangla_translation": "নিশ্চয় সাফল্য লাভ করবে সে, যে শুদ্ধ হয়",
+      "english_translation": "He has certainly succeeded who purifies himself",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 15,
+      "arabic_text": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+      "bangla_translation": "এবং তার পালনকর্তার নাম স্মরণ করে, অতঃপর নামায আদায় করে।",
+      "english_translation": "And mentions the name of his Lord and prays.",
+      "juz_number": 30,
+      "page_number": 591
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 16,
+      "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+      "bangla_translation": "বস্তুতঃ তোমরা পার্থিব জীবনকে অগ্রাধিকার দাও,",
+      "english_translation": "But you prefer the worldly life,",
+      "juz_number": 30,
+      "page_number": 592
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 17,
+      "arabic_text": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+      "bangla_translation": "অথচ পরকালের জীবন উৎকৃষ্ট ও স্থায়ী।",
+      "english_translation": "While the Hereafter is better and more enduring.",
+      "juz_number": 30,
+      "page_number": 592
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 18,
+      "arabic_text": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+      "bangla_translation": "এটা লিখিত রয়েছে পূর্ববতী কিতাবসমূহে;",
+      "english_translation": "Indeed, this is in the former scriptures,",
+      "juz_number": 30,
+      "page_number": 592
+    },
+    {
+      "surah_number": 87,
+      "ayah_number": 19,
+      "arabic_text": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+      "bangla_translation": "ইব্রাহীম ও মূসার কিতাবসমূহে।",
+      "english_translation": "The scriptures of Abraham and Moses.",
+      "juz_number": 30,
+      "page_number": 592
+    }
+  ]
+}

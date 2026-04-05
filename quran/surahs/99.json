@@ -1,0 +1,86 @@
+{
+  "surah": {
+    "number": 99,
+    "name_arabic": "سُورَةُ الزَّلۡزَلَةِ",
+    "name_bangla": "আয-যালযালাহ",
+    "name_english": "Az-Zalzala",
+    "name_meaning": "The Earthquake",
+    "ayah_count": 8,
+    "juz_start": 30,
+    "revelation_type": "medinan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 99,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "bangla_translation": "যখন পৃথিবী তার কম্পনে প্রকম্পিত হবে,",
+      "english_translation": "When the earth is shaken with its [final] earthquake",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 2,
+      "arabic_text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "bangla_translation": "যখন সে তার বোঝা বের করে দেবে।",
+      "english_translation": "And the earth discharges its burdens",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 3,
+      "arabic_text": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+      "bangla_translation": "এবং মানুষ বলবে, এর কি হল ?",
+      "english_translation": "And man says, \"What is [wrong] with it?\" -",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 4,
+      "arabic_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "bangla_translation": "সেদিন সে তার বৃত্তান্ত বর্ণনা করবে,",
+      "english_translation": "That Day, it will report its news",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 5,
+      "arabic_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "bangla_translation": "কারণ, আপনার পালনকর্তা তাকে আদেশ করবেন।",
+      "english_translation": "Because your Lord has commanded it.",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 6,
+      "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+      "bangla_translation": "সেদিন মানুষ বিভিন্ন দলে প্রকাশ পাবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো হয়।",
+      "english_translation": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 7,
+      "arabic_text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "bangla_translation": "অতঃপর কেউ অণু পরিমাণ সৎকর্ম করলে তা দেখতে পাবে",
+      "english_translation": "So whoever does an atom's weight of good will see it,",
+      "juz_number": 30,
+      "page_number": 599
+    },
+    {
+      "surah_number": 99,
+      "ayah_number": 8,
+      "arabic_text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "bangla_translation": "এবং কেউ অণু পরিমাণ অসৎকর্ম করলে তাও দেখতে পাবে।",
+      "english_translation": "And whoever does an atom's weight of evil will see it.",
+      "juz_number": 30,
+      "page_number": 599
+    }
+  ]
+}

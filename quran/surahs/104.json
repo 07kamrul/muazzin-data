@@ -1,0 +1,95 @@
+{
+  "surah": {
+    "number": 104,
+    "name_arabic": "سُورَةُ الهُمَزَةِ",
+    "name_bangla": "আল-হুমাযাহ",
+    "name_english": "Al-Humaza",
+    "name_meaning": "The Traducer",
+    "ayah_count": 9,
+    "juz_start": 30,
+    "revelation_type": "meccan"
+  },
+  "ayahs": [
+    {
+      "surah_number": 104,
+      "ayah_number": 1,
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "bangla_translation": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ,",
+      "english_translation": "Woe to every scorner and mocker",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 2,
+      "arabic_text": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+      "bangla_translation": "যে অর্থ সঞ্চিত করে ও গণনা করে",
+      "english_translation": "Who collects wealth and [continuously] counts it.",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 3,
+      "arabic_text": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+      "bangla_translation": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে!",
+      "english_translation": "He thinks that his wealth will make him immortal.",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 4,
+      "arabic_text": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+      "bangla_translation": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
+      "english_translation": "No! He will surely be thrown into the Crusher.",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 5,
+      "arabic_text": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "bangla_translation": "আপনি কি জানেন, পিষ্টকারী কি?",
+      "english_translation": "And what can make you know what is the Crusher?",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 6,
+      "arabic_text": "نَارُ اللَّهِ الْمُوقَدَةُ",
+      "bangla_translation": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি,",
+      "english_translation": "It is the fire of Allah, [eternally] fueled,",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 7,
+      "arabic_text": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+      "bangla_translation": "যা হৃদয় পর্যন্ত পৌছবে।",
+      "english_translation": "Which mounts directed at the hearts.",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 8,
+      "arabic_text": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+      "bangla_translation": "এতে তাদেরকে বেঁধে দেয়া হবে,",
+      "english_translation": "Indeed, Hellfire will be closed down upon them",
+      "juz_number": 30,
+      "page_number": 601
+    },
+    {
+      "surah_number": 104,
+      "ayah_number": 9,
+      "arabic_text": "فِي عَمَدٍ مُمَدَّدَةٍ",
+      "bangla_translation": "লম্বা লম্বা খুঁটিতে।",
+      "english_translation": "In extended columns.",
+      "juz_number": 30,
+      "page_number": 601
+    }
+  ]
+}
